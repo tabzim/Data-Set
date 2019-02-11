@@ -8,7 +8,8 @@ Scholar and DBLP.
 
 Below is the repository map:
 
-Data-set/Training Set         : 612 documents where each document holds publication meta-data and abstracts.
-Data-set/Training Set Authors : 612 documents where each document holds single/multiple authors names.
-Data-set/Test Set             : 86 documents where each document maintains scholar's publication metadata. 
-Data-set/Test set Authors     : 86 documents  where each document holds scholar's name.
+Data-set/Raw Data/Training Set         : 612 documents where each document holds publication meta-data and abstracts.
+Data-set/Raw Data/Training Set Authors : 612 documents where each document holds single/multiple authors names.
+Data-set/Raw Data/Test Set             : 86 documents where each document maintains scholar's publication metadata. 
+Data-set/Raw Data/Test set Authors     : 86 documents  where each document holds scholar's name.
+Data-set/Extracted Features            : Contains bag of words(BOW) and unigram features extracted from the train and test sets.     
