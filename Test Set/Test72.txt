@@ -1,0 +1,12 @@
+Exploring grouped coherence for clustered hierarchical cache. The Journal of Supercomputing 73(9): 4137-4157 (2017)
+Redundant Capability Analysis of input-series output-series Multi-modular DC-DC converter Sindh University Research Journal-SURJ (Science Series) 48 (3)
+NONLINEAR TRANSIENT CHARACTERIZATION OF THIRD ORDER VOLTAGE SWITCHED CP-PLL Science International 28 (4)
+Mehran University Research Journal of Engineering and Technology 35 (3), 473-482
+Cluster Computing 18 (2), 949-962
+Evaluation of solar energy resources by establishing empirical models for diffuse solar radiation on tilted surface and analysis for optimum tilt angle for a prospective location in southern region of Sindh, Pakistan
+Exploiting controlled-grained parallelism in message-driven stream programs The Journal of Supercomputing 70 (1), 488-509
+Input-Current and Load Voltage Sharing in Input-Parallel Output-Series Connected Boost Half Bridge DC-DC Converter Using Stable Control Scheme TELKOMNIKA Indonesian Journal of Electrical Engineering 12 (5)
+Optimal Pipeline Performance via Transactional Slice with No Branch Prediction Overhead Computer Modelling and Simulation (UKSim), 2014 UKSim-AMSS 16th 
+A Long-wire-connected and Multi-channel 3D Network-on-chip Design for Many-core System Indonesian Journal of Electrical Engineering and Computer Science 11 (12)
+Instruction Pipeline Efficient Mechanism with maximum hit ratio Indonesian Journal of Electrical Engineering and Computer Science 11 (11 )
+ Research on Dependable Ionizing Radiation Protection based on Model Indonesian Journal of Electrical Engineering and Computer Science 11 

@@ -1,0 +1,13 @@
+"Bayesian modeling of human concept learning" Advances in Neural Information Processing Systems. 1999. 
+I consider the problem of learning concepts from small numbers of pos- 
+itive examples, a feat which humans perform routinely but which com- 
+puters are rarely capable of. Bridging machine learning and cognitive 
+science perspectives, I present both theoretical analysis and an empirical 
+study with human subjects for the simple task of learning concepts corre- 
+sponding to axis-aligned rectangles in a multidimensional feature space. 
+Existing learning models, when applied to this task, cannot explain how 
+subjects generalize from only a few examples of the concept. I propose 
+a principled Bayesian model based on the assumption that the examples 
+are a random sample from the concept to be learned. The model gives 
+precise fits to human behavior on this simple task and provides qualitative 
+insights into more complex, realistic cases of concept learning. 

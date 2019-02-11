@@ -1,0 +1,9 @@
+"The Entropy Regularization Information Criterion." Advances in Neural Information Processing Systems. 2000.
+Effective methods of capacity control via uniform convergence bounds 
+for function expansions have been largely limited to Support Vector ma- 
+chines, where good bounds are obtainable by the entropy number ap- 
+proach. We extend these methods to systems with expansions in terms of 
+arbitrary (parametrized) basis functions and a wide range of regulariza- 
+tion methods covering the whole range of general linear additive models. 
+This is achieved by a data dependent analysis of the eigenvalues of the 
+corresponding design matrix. 

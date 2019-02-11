@@ -1,0 +1,5 @@
+Effect of thesaurus size on schema matching quality. Knowl.-Based Syst. 71: 211-
+Rubrics to Assess Usability of Embedded Systems. SoMeT 2014: 577-590
+Cataloguing Physicality Values Using Physical Quantitative Evaluation Method.OZCHI (LNCS Selection) 2013: 197-214 
+Physicality quantitative evaluation method. OZCHI 2013: 315-324
+Towards Natural Interaction with Wheelchair Using Nintendo Wiimote Controller. ICSECS (3) 2011: 231-245 

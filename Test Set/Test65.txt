@@ -1,0 +1,14 @@
+﻿Parallel fragments : Measuring their impact on translation performance. Computer Speech & Language 43: 56-69 (2017)
+Empirical Use of Information Retrieval to Build Synthetic Data for SMT Domain Adaptation. IEEE/ACM Trans. Audio, Speech & Language Processing 24(4): 745-754 (2016)
+Text Normalization in Urdu Text to Speech Synthesis Systems 3rd Workshop on Indian Language Data: Resources and Evaluation, 11-17
+Efficient corpus selection for statistical machine translation. (Sélection de corpus en traduction automatique statistique). University of Maine, Le Mans, France 2012
+Efficient corpus selection for statistical machine translation. (Sélection de corpus en traduction automatique statistique). University of Maine, Le Mans, France 2012
+Extrinsic evaluation of sentence alignment systems Proceedings of LREC Workshop on Creating Cross
+Efficient corpus selection for statistical machine translation. (Sélection de corpus en traduction automatique statistique). University of Maine, Le Mans, France 2012
+Parallel sentence generation from comparable corpora for improved SMT. Machine Translation 25(4): 341-375 (2011)
+LIUM's SMT Machine Translation Systems for WMT 2011. WMT@EMNLP 2011: 464-469
+Investigations on Translation Model Adaptation Using Monolingual Data. WMT@EMNLP 2011: 284-293
+LIUM's Statistical Machine Translation System for the NTCIR Chinese/English PatentMT. NTCIR 2011
+LIUM SMT Machine Translation System for WMT 2010. WMT@ACL 2010: 121-126
+Evaluation of Sentence Alignment Systems Technical report, Fifth MT Marathon
+ 

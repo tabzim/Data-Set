@@ -1,0 +1,33 @@
+﻿   “Fair, efficient, and power-optimized spectrum sharing scheme for cognitive radio networks. EURASIP J. Wireless Comm. and Networking 2011: 201 (2011)
+  ,“CSPA: Channel Selection and Parameter Adaptation scheme based on genetic algorithm for cognitive radio Ad Hoc networks. EURASIP J. Wireless Comm. and Networking 2012: 349 (2012)
+”Spectrum Sharing Optimization with QoS Guarantees.” 
+ “Reliable, Efficient and Power Optimized Control Channel Selection Scheme for Cognitive Radio Networks.” 
+“Joint Sensor-node Selection and Channel Allocation Scheme for Cognitive Radio Sensor Networks 網際網路技術學刊 14 (3), 453-466.” 
+“CSIT: Channel State and Idle Time Prediction for Cognitive Radio Networks.
+“A Decentralized Heuristic Approach towards Resource Allocation in Femtocell Networks. Entropy 15(7): 2524-2547 (2013).”
+“Distributed joint resource and power allocation in self-organized femtocell networks: A potential game approach. J. Network and Computer Applications 46: 280-292 (2014)”
+“A Self-organized Metaheurestic Approach towards Inter-cell Interference Management in LTE-Advanced” 
+ “Primary User Behavior Aware Spectrum Allocation Scheme for Cognitive Radio Networks” Computers & Electrical Engineering 42, 135-147, 
+ “A Docitive Q-learning Approach Towards Joint Resource Allocation and Power Control in Self-Organized Femtocell Networks”
+ “Energyefficient downlink resource management in self-organized OFDMA based two-tier Femtocell networks”,
+“Dynamic Intra-network Spectrum Sharing for Cognitive Radio Networks”, IPCSIT 3
+“Performance Analysis of Spectrum Sensing Techniques in Cognitive Radio Networks”
+ “Device centric Spectrum Sharing for Cognitive Radio Networks”,
+“Throughput Analysis Using Smartphone in WiFi Networks”,
+“Fuzzy Logic Based Spectrum Sensing for Cognitive Radio Networks”, Next Generation Mobile Applications, Services and Technologies (NGMAST)
+“IMS: Interference minimization scheme for cognitive radio networks using Hungarian algorithm. FGST 2012: 17-21”,
+ “An Efficient Shopping Mall with Advanced Purchasing System”,
+ “FOCS: Feedback Oriented Channel Selection Scheme for Cognitive Radios”, ICT Convergence (ICTC), 2012 International Conference on, 639-641
+ “Optimized Control Channel Selection Scheme for Cognitive Radio Network within Smart Buildings”. Energy Aware Computing Systems and Applications (ICEAC), 2013 4th Annual
+ “GA-CSS: Genetic Algorithm Based Control channel Selection Scheme for Cognitive Radio Networks”
+“Component Carrier Selection Method for LTE-Advanced using Metaheurestic Approach”,
+“A game-theoretic approach towards energy-efficient joint resource block and power allocation in femtocell networks”
+“Genetic Algorithm Based Self-organized Resource Allocation in LTE-Advanced Networks”, Ubiquitous and Future Networks (ICUFN), 2014 Sixth International Conf 
+“Docitive Learning Mechanism for Interference Management in Femtocell Networks”,
+“Optimized Node Classification and Channel Pairing Scheme for RF Energy Harvesting Based Cognitive Radio Sensor Networks”,  Systems, Signals & Devices (SSD), 2015 12th International Multi-Conference
+ “New Classification of Channel Selection Scheme in Cognitive radios”,
+“CSSA: Centralized Spectrum Sensing Architecture for Cognitive Radios”,
+“Channel Switching Minimization Using Prior Knowledge of Spectrum Usage of Primary User for Cognitive Radio Networks”
+ “Particle Swarm Optimization Based CC Selection for Opportunistic Radios”,
+“Channel Allocation Scheme for Video Sensors in Cognitive Radio Sensor Networks”
+“Neural Network based Spectrum Prediction in Cognitive Radio LET-Advanced”

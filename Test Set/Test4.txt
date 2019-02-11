@@ -1,0 +1,9 @@
+Adaptive stochastic segmentation via energy-convergence for brain tumor in MR images. J. Visual Communication and Image Representation 46: 303-311 (2017)
+Configuration for Predicting Travel-Time Using Wavelet Packets and Support Vector Regression,Vol. 3 No. 3, 2013, pp. 220-231
+Advanced machine learning models for online travel-time prediction on freeways." Diss. Georgia Institute of Technology, Atlanta, 2013. Dissertations and Theses. Web. 19 November 2013.
+Comparison of brain tumor MRI classification methods using probabilistic features." Biomedical Engineering (BioMed), 2017 13th IASTED International Conference on. IEEE, 2017
+On the Hybrid Framework of Personalization Data for the Automotive HMI," SAE Technical Paper 2014-01-0276, 2014, doi:10.4271/2014-01-0276
+Process for synchronizing audio playback on a smartphone with content displayed on a digital sign
+A Yusuf, J Avery - US Patent App. 14/695,451, 2015
+System for assigning a smartphone as a temporary key for a vehicle - US Patent 9,595,145, 2017
+

@@ -1,0 +1,2 @@
+ "esdn: Rethinking datacenter transports using end-host sdn controllers." ACM SIGCOMM Computer Communication Review. Vol. 45. No. 4. ACM, 2015.
+We propose eSDN; a practical approach for deploying new datacenter transports without requiring any changes to the switches. eSDN uses light-weight SDN controllers at the end-hosts for querying network state. It obviates the need for statistics collection by a centralized controller especially on short timescales. We show that eSDN can scale well and allow a range of datacenter transports to be realized.

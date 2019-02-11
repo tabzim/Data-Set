@@ -1,0 +1,8 @@
+"General Bounds on Bayes Errors for Regression with Gaussian Processes." Advances in Neural Information Processing Systems. 1999. 
+Based on a simple convexity lemma, we develop bounds for differ- 
+ent types of Bayesian prediction errors for regression with Gaussian 
+processes. The basic bounds are formulated for a fixed training set. 
+Simpler expressions are obtained for sampling from an input distri- 
+bution which equals the weight function of the covariance kernel, 
+yielding asymptotically tight results. The results are compared 
+with numerical experiments. 

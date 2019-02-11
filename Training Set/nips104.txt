@@ -1,0 +1,9 @@
+"Bifurcation Analysis of a Silicon Neuron." Advances in Neural Information Processing Systems. 2000. 
+We have developed a VLSI silicon neuron and a corresponding mathe- 
+matical model that is a two state-variable system. We describe the cir- 
+cuit implementation and compare the behaviors observed in the silicon 
+neuron and the mathematical model. We also perform bifurcation analy- 
+sis of the mathematical model by varying the externally applied current 
+and show that the behaviors exhibited by the silicon neuron under corre- 
+sponding conditions are in good agreement to those predicted by the 
+bifurcation analysis. 

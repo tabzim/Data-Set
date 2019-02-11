@@ -1,0 +1,8 @@
+Job search website for illiterate users of Pakistan. Telematics and Informatics 34(2): 481-489 (2017)
+Supporting adaptation intelligibility, control, evaluation and adaptation policy evolution in a context-based adaptive collaboration environment. FernUniversität in Hagen 2013
+Facilitating understanding of team-based adaptation policies. CollaborateCom 2010: 1-8
+Integrating Context-Enriched Explanations and Communication in an Adaptive Collaboration Environment. CRIWG 2010: 161-168
+Integrating end-user support and negotiations to specify requirements for context-based adaptations in a collaboration environment. EICS 2010: 329-332
+Process support for context-based adaptations in a collaboration environment. CTS 2010: 265-274
+Local predecimation with range index communication parallelization strategy for fractal image compression on a cluster of workstations. Int. Arab J. Inf. Technol. 6(3): 293-296 (2009)
+A comparative study of parallelization strategies for fractal image compression on a cluster of workstations International Journal of Computational Methods 5 (03), 463-482

@@ -1,0 +1,13 @@
+"Tractable variational structures for approximating graphical models." Advances in Neural Information Processing Systems. 1999. 
+Graphical models provide a broad probabilistic flamework with ap- 
+plications in speech recognition (Hidden Markov Models), medical 
+diagnosis (Belief networks) and artificial intelligence (Boltzmann 
+Machines). However, the computing time is typically exponential 
+in the number of nodes in the graph. Within the variational flame- 
+work for approximating these models, we present two classes of dis- 
+tributions, decimatable Boltzmann Machines and Tractable Belief 
+Networks that go beyond the standard factorized approach. We 
+give generalised mean-field equations for both these directed and 
+undirected approximations. Simulation results on a small bench- 
+mark problem suggest using these richer approximations compares 
+favorably against others previously reported in the literature. 

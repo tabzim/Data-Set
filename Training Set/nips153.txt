@@ -1,0 +1,12 @@
+"Perceiving without learning: from spirals to inside/outside relations." Advances in neural information processing systems. 1999.
+As a benchmark task, the spiral problem is well known in neural net- 
+works. Unlike previous work that emphasizes learning, we approach 
+the problem from a generic perspective that does not involve learning. 
+We point out that the spiral problem is intrinsically connected to the in- 
+side/outside problem. A generic solution to both problems is proposed 
+based on oscillatory correlation using a time delay network. Our simu- 
+lation results are qualitatively consistent with human performance, and 
+we interpret human limitations in terms of synchrony and time delays, 
+both biologically plausible. As a special case, our network without time 
+delays can always distinguish these figures regardless of shape, position, 
+size, and orientation. 

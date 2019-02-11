@@ -1,0 +1,25 @@
+"Finite-Sample Convergence Rates for Q-Learning and Indirect Algorithms". Advances in Neural Information Processing Systems. 1999. 
+In this paper, we address two issues of long-standing interest in the re- 
+inforcement learning literature. First, what kinds of performance guar- 
+antees can be made for Q-learning after only a finite number of actions? 
+Second, what quantitative comparisons can be made between Q-learning 
+and model-based (indirect) approaches, which use experience to estimate 
+next-state distributions for off-line value iteration? 
+We first show that both Q-learning and the indirect approach enjoy 
+rather rapid convergence to the optimal policy as a function of the num- 
+ber of state transitions observed. In particular, on the order of only 
+(Nlog(1/e)/e2)(log(N) + loglog(I/e)) transitions are sufficient for both 
+algorithms to come within e of the optimal policy, in an idealized model 
+that assumes the observed transitions are "well-mixed" throughout an 
+N-state MDP. Thus, the two approaches have roughly the same sample 
+complexity. Perhaps surprisingly, this sample complexity is far less than 
+what is required for the model-based approach to actually construct a good 
+approximation to the next-state distribution. The result also shows that 
+the amount of memory required by the model-based approach is closer to 
+N than to N 2. 
+For either approach, to remove the assumption that the observed tran- 
+sitions are well-mixed, we consider a model in which the transitions are 
+determined by a fixed, arbitrary exploration policy. Bounds on the number 
+of transitions required in order to achieve a desired level of performance 
+are then related to the stationary distribution and mixing time of this 
+policy. 

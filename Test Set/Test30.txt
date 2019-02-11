@@ -1,0 +1,3 @@
+"Multi-Fold Turbo Codes for the 2-User Binary Adder Channel "(Not Found)
+Image transmission using unequal error protected multi-fold turbo codes over a two-user power-line binary adder channel. IET Image Processing 9(5): 395-404 (2015)
+Narrowband PLC channel modelling for smart grid applications. CSNDSP 2014: 67-72

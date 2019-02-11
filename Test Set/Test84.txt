@@ -1,0 +1,13 @@
+Leukocytes Classification and Segmentation in Microscopic Blood Smear: A Resource-Aware Healthcare Service in Smart Cities. IEEE Access 5: 3475-3489 (2017)
+  Mobile-cloud assisted framework for selective encryption of medical images with steganography for resource-constrained devices. Multimedia Tools Appl. 76(3): 3519-3536 (2017)
+Analysis of interaction trace maps for active authentication on smart devices. Multimedia Tools Appl. 76(3): 4069-4087 (2017)
+ CISSKA-LSB: color image steganography using stego key-directed adaptive LSB substitution method. Multimedia Tools Appl. 76(6): 8597-8626 (2017)
+Exploiting angular profiles signature for shape-based image classification and retrieval. IJAPR 3(3): 276-292 (2016)
+Computer Aided System for Leukocytes Classification and Segmentation in Blood Smear Images. FIT 2016: 99-104
+ A New Image Steganographic Technique using Pattern based Bits Shuffling and Magic LSB for Grayscale Images. CoRR abs/1601.01386 (2016)
+ A Secure Method for Color Image Steganography using Gray-Level Modification and Multi-level Encryption. TIIS 9(5): 1938-1962 (2015)
+  Detection of Tuberculosis Bacteria in Sputum Slide Image Using Morphological Features. BDAS 2015: 408-414
+An Automated System for Offline Signature Verification and Identification Using Delaunay Triangulation. WorldCIST (1) 2015: 653-663
+ A Secure Cyclic Steganographic Technique for Color Images using Randomization. CoRR abs/1502.07808 (2015)
+An Adaptive Secret Key-directed Cryptographic Scheme for Secure Transmission in Wireless Sensor Networks. CoRR abs/1510.00226 (2015)
+A Fusion of Labeled-Grid Shape Descriptors with Weighted Ranking Algorithm for Shapes Recognition. CoRR abs/1406.3949 (2014)

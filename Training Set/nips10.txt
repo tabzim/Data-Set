@@ -1,0 +1,13 @@
+"Evolving Learnable Languages." Advances in Neural Information Processing Systems. 2000.
+Recent theories suggest that language acquisition is assisted by the 
+evolution of languages towards forms that are easily learnable. In 
+this paper, we evolve combinatorial languages which can be learned 
+by a recurrent neural network quickly and from relatively few ex- 
+amples. Additionally, we evolve languages for generalization in 
+different "worlds", and for generalization from specific examples. 
+We find that languages can be evolved to facilitate different forms 
+of impressive generalization for a minimally biased, general pur- 
+pose learner. The results provide empirical support for the theory 
+that the language itself, as well as the language environment of a 
+learner, plays a substantial role in learning: that there is far more 
+to language acquisition than the language acquisition device. 

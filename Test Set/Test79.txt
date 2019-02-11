@@ -1,0 +1,32 @@
+﻿Frequent Change Request From User to Handle Cost on Project in Agile Model Asia Pacific Journal of Multidisciplinary Research 5 (2), 26-42
+Optimization of moderator assembly for neutron flux measurement: experimental and theoretical approaches
+Detection and Prevention against RTS Attacks in Wireless LANs Communication, Computing and Digital Systems (C-CODE), International Cooperative Communications beyond 5G-Security and Resource Management in Cooperation COPELABS 2016
+Design and Architecture of SNMP Monitoring System
+Services and Security in ITS
+Analysis of Detection Features for Wormhole Attacks in MANETs Procedia Computer Science 56, 384-390
+Cooperative relaying in user-centric networking under interference conditions IEEE communications magazine 52 (12), 18-24
+User-Centric Networking: Cooperation in Wireless Networks User-Centric Networking: Cooperation in Wireless Networks. Wireless Networking for Moving Objects 2014: 31-49
+Wireless Networking for Moving Objects - Protocols, Architectures, Tools, Services and Applications. Lecture Notes in Computer Science 8611, Springer 2014, ISBN 978-3-319-10833-9 [contents]
+Cooperative MAC: Design and Implementation-Thesis book
+Opportunistic routing based on users daily life routine
+Research stream# 1: Multimedia Mobile Networking
+Social-aware opportunistic routing
+User-Centric Networking: Cooperation in Wireless Networks
+Cooperative Relaying for Wireless Local Area Networks Wireless Networking for Moving Objects, 50-69
+Cooperative networking in user-centric wireless networks User-Centric Networking, 135-157
+Cooperative relaying in wireless user-centric networks Springer Lecture Notes in Social Networks, User-Centric Networking: Future 
+Cooperative Relaying In Wireless User-Centric Networks. contribution to Book Chapter in User Centric Networking-Future Perspectives Springer LNSN, February
+User-Centric Networking: Living-Examples and Challenges Ahead
+Cooperative Relaying in Dynamic Wireless Networks under Interference Conditions
+Cooperative Relaying in User-Centric Wireless Networks User-Centric Networking, 171-195
+RelaySpot, OMNET++ module  (2013)
+Analysis of hybrid relaying in cooperative WLAN Wireless Days (WD), 2013 IFIP, 1-6
+D3.8 - ULOOP Framework Design and Implementation Report
+ULOOP European project deliverable (gr. Nr 257418)	
+A survey of cooperative MAC protocols for mobile communication networks
+802.11 medium access control in MiXiM Tech Rep. SITILabs-TR-13-02 University Lusófona	
+Towards Implementing Cooperative Relaying (2013)
+Design and Performance of Wireless Cooperative Relaying University of Aveiro and COPELABS, University Lusofona
+Design and Performance of Wireless Cooperative Relaying University of Aveiro and COPELABS, University Lusofona
+’Effect of Mobility Patterns on VoIP QoS in Mobile WiMAX ‘
+Cooperative relaying for dynamic networks EP13182366. 8

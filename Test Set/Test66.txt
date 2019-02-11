@@ -1,0 +1,3 @@
+ An Ensemble-of-Classifiers Based Approach for Early Diagnosis of Alzheimer's Disease: Classification Using Structural Features of Brain Images. Comp. Math. Methods in Medicine 2014: 862307:1-862307:11 (2014)
+ A Systematic Approach for Selecting a Suitable Software Architecture Evaluation Method. Software Engineering Research and Practice 2009: 295-299
+ 

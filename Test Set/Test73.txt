@@ -1,0 +1,4 @@
+ Investigating Critical Success Factors Affecting ERP Implementation in Chinese and Pakistani Enterprises. IJEIS 9(3): 39-76 (2013)
+Web Service Testing Tools: A Comparative Study. CoRR abs/1306.4063 (2013)
+  An Advanced Survey on Secure Energy-Efficient Hierarchical Routing Protocols in Wireless Sensor Networks. CoRR abs/1306.4595 (2013)
+E-learning Services for Rural Communities. CoRR abs/1308.4820 (2013)

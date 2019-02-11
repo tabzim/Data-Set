@@ -1,0 +1,15 @@
+"Population Decoding Based on an Unfaithful Model." Advances in Neural Information Processing Systems. 2000. 
+We study a population decoding paradigm in which the maximum likeli- 
+hood inference is based on an unfaithful decoding model (UMLI). This 
+is usually the case for neural population decoding because the encoding 
+process of the brain is not exactly known, or because a simplified de- 
+coding model is preferred for saving computational cost. We consider 
+an unfaithful decoding model which neglects the pair-wise correlation 
+between neuronal activities, and prove that UMLI is asymptotically effi- 
+cient when the neuronal correlation is uniform or of limited-range. The 
+performance of UMLI is compared with that of the maximum likelihood 
+inference based on a faithful model and that of the center of mass de- 
+coding method. It turns out that UMLI has advantages of decreasing 
+the computational complexity remarkablely and maintaining a high-level 
+decoding accuracy at the same time. The effect of correlation on the 
+decoding accuracy is also discussed. 

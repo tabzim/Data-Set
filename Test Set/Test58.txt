@@ -1,0 +1,5 @@
+Selecting the Best Reliability Model to Predict Residual Defects in Open Source Software. IEEE Computer 48(6): 50-58 (2015)
+A method for predicting open source software residual defects. Software Quality Journal 23(1): 55-76 (2015)
+An empirical analysis of open source software defects data through software reliability growth models. EUROCON 2013: 460-466
+An Empirical Study of Reliability Growth of Open versus Closed Source Software through Software Reliability Growth Models. APSEC 2012: 356-361
+A Comparative Analysis of Software Reliability Growth Models using Defects Data of Closed and Open Source Software. SEW 2012: 187-192

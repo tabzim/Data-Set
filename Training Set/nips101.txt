@@ -1,0 +1,12 @@
+"An Oculo-Motor System with Multi-Chip Neuromorphic Analog VLSI Control." Advances in Neural Information Processing Systems. 2000. 
+A system emulating the functionality of a moving eye hence the name 
+oculo-motor system--has been built and successfully tested. It is made 
+of an optical device for shifting the field of view of an image sensor by up 
+to 45 o in any direction, four neuromorphic analog VLSI circuits imple- 
+menting an oculo-motor control loop, and some off-the-shelf electronics. 
+The custom integrated circuits communicate with each other primarily by 
+non-arbitrated address-event buses. The system implements the behav- 
+iors of saliency-based saccadic exploration, and smooth pursuit of light 
+spots. The duration of saccades ranges from 45 ms to 100 ms, which is 
+comparable to human eye performance. Smooth pursuit operates on light 
+sources moving at up to 50 ø/s in the visual field. 

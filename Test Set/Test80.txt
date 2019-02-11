@@ -1,0 +1,11 @@
+﻿ ﻿ Computational Models of Object Recognition - Goal, Role and Success. VISAPP (1) 2014: 179-186
+  Texture Classification with Fisher Kernel Extracted from the Continuous Models of RBM. VISAPP (2) 2014: 684-690
+Inducing discrimination in biologically inspired models of visual scene recognition. MLSP 2013: 1-6
+ Automatic Fatigue Detection of Drivers through Yawning Analysis. FGIT-SIP 2009: 125-132
+ Automatic Fatigue Detection of Drivers through Yawning Analysis. FGIT-SIP 2009: 125-132
+ Drivers Pupil Detection Yawning Analysis.  
+Automatic Fatigue Detection Drivers Real Eye Tracking.  
+Fully automated real time fatigue detection of drivers through Fuzzy Expert Systems. Appl. Soft Comput. 18: 25-38 (2014)
+ Biomedical Visual Data Analysis Build Intelligent Diagnostic Decision Support System Medical Genetics Enhancing Discrimination Biologically Inspired Models  Object Recognition.  
+Fully automated real time fatigue detection of drivers through Fuzzy Expert Systems. Appl. Soft Comput. 18: 25-38 (2014)
+ Drivers eye Closure Duration Yawning Analysis. 

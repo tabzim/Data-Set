@@ -1,0 +1,10 @@
+"Direct Optimization of Margins Improves Generalization in Combined Classifiers." Advances in Neural Information Processing Systems. 1999.  
+Margin Cumulative training margin dis- 
+tributions for AdaBoost versus 
+our "Direct Optimization Of 
+Margins" (DOOM) algorithm. 
+The dark curve is AdaBoost, the 
+light curve is DOOM. DOOM 
+sacrifices significant training er- 
+ror for improved test error (hori- 
+zontal marks on margin= 0 line). 

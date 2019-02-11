@@ -1,0 +1,12 @@
+"A Micropower CMOS Adaptive Amplitude and Shift Invariant Vector Quantiser." Advances in Neural Information Processing Systems. 1999. 
+In this paper we describe the architecture, implementation and experi- 
+mental results for an Intracardiac Electrogram (ICEG) classification and 
+compression chip. The chip processes and vector-quantises 30 dimen- 
+sional analogue vectors while consuming a maximum of 2.5 W power 
+for a heart rate of 60 beats per minute (1 vector per second) from a 3.3 V 
+supply. This represents a significant advance on previous work which 
+achieved ultra low power supervised morphology classification since the 
+template matching scheme used in this chip enables unsupervised blind 
+classification of abnormal rhythms and the computational support for low 
+bit rate data compression. The adaptive template matching scheme used 
+is tolerant to amplitude variations, and inter- and intra-sample time shifts. 

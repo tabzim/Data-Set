@@ -1,0 +1,10 @@
+"Batch and On-line Parameter Estimation of Gaussian Mixtures Based on the Joint Entropy." Advances in Neural Information Processing Systems. 1999.  
+We describe a new iterative method for parameter estimation of Gaus- 
+sian mixtures. The new method is based on a framework developed by 
+Kivinen and Warmuth for supervised on-line learning. In contrast to gra- 
+dient descent and EM, which estimate the mixture's covariance matrices, 
+the proposed method estimates the inverses of the covariance matrices. 
+Furthermore, the new parameter estimation procedure can be applied in 
+both on-line and batch settings. We show experimentally that it is typi- 
+cally faster than EM, and usually requires about half as many iterations 
+as EM. 

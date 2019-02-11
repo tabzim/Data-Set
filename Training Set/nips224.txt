@@ -1,0 +1,9 @@
+"Neural Networks for Density Estimation." Advances in Neural Information Processing Systems. 1999.  
+We introduce two new techniques for density estimation. Our ap- 
+proach poses the problem as a supervised learning task which can 
+be performed using Neural Networks. We introduce a stochas- 
+tic method for learning the cumulative distribution and an analo- 
+gous deterministic technique. We demonstrate convergence of our 
+methods both theoretically and experimentally, and provide com- 
+parisons with the Parzen estimate. Our theoretical results demon- 
+strate better convergence properties than the Parzen estimate. 

@@ -1,0 +1,4 @@
+ A Novel Topology in Modular Ann Approach for Multi-Modal Concept Identification and Image Retrieval.  Intelligent Automation & Soft Computing 20(1): 131-141 (2014)
+ An Improved Intrusion Detection Approach using Synthetic Minority Over-Sampling Technique and Deep Belief Network.  SoMeT 2014: 94-102
+ Effect of Feature Selection, SMOTE and under Sampling on Class Imbalance Classification. UKSim 2012: 145-150
+FPGA based implementation of baseline JPEG decoder. FIT 2009: 29:1-29:6

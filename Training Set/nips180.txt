@@ -1,0 +1,15 @@
+"Phase Diagram and Storage Capacity of Sequence Storing Neural Networks," Advances in Neural Information Processing Systems. 1999.  
+We solve the dynamics of Hopfield-type neural networks which store se- 
+quences of patterns, close to saturation. The asymmetry of the interaction 
+matrix in such models leads to violation of detailed balance, ruling out an 
+equilibrium statistical mechanical analysis. Using generating functional 
+methods we derive exact closed equations for dynamical order parame- 
+ters, viz. the sequence overlap and correlation and response functions, 
+in the limit of an infinite system size. We calculate the time translation 
+invariant solutions of these equations, describing stationary limit-cycles, 
+which leads to a phase diagram. The effective retarded self-interaction 
+usually appearing in symmetric models is here found to vanish, which 
+causes a significantly enlarged storage capacity of acm 0.269, com- 
+pared to acm 0.139 for Hopfield networks s[oring static patterns. Our 
+results are tested against extensive computer simulations and excellent 
+agreement is found. 

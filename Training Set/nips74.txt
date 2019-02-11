@@ -1,0 +1,13 @@
+"A Multi-class Linear Learning Algorithm Related to Winnow." Advances in Neural Information Processing Systems. 2000. 
+In this paper, we present Committee, a new multi-class learning algo- 
+rithm related to the Winnow family of algorithms. Committee is an al- 
+gorithm for combining the predictions of a set of sub-experts in the on- 
+line mistake-bounded model of learning. A sub-expert is a special type of 
+attribute that predicts with a distribution over a finite number of classes. 
+Committee learns a linear function of sub-experts and uses this function 
+to make class predictions. We provide bounds for Committee that show 
+it performs well when the target can be represented by a few relevant 
+sub-experts. We also show how Committee can be used to solve more 
+traditional problems composed of attributes. This leads to a natural ex- 
+tension that learns on multi-class problems that contain both traditional 
+attributes and sub-experts. 

@@ -1,0 +1,11 @@
+"The Belief in TAP Yoshiyuki Kabashima." Advances in Neural Information Processing Systems. 1999. 
+We show the similarity between belief propagation and TAP, for 
+decoding corrupted messages encoded by Sourlas's method. The 
+latter is a special case of the Gallager error-correcting code, where 
+the code word comprises products of Ix' bits selected randomly from 
+the original message. We examine the efficacy of solutions obtained 
+by the two methods for various values of Ix' and show that solutions 
+for I( > 3 may be sensitive to the choice of initial conditions in 
+the case of unbiased patterns. Good approximations are obtained 
+generally for I, = 2 and for biased patterns in the case of Ix' > 3, 
+especially when Nishimori's temperature is being used. 

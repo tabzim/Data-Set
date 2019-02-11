@@ -1,0 +1,12 @@
+"Algorithms for Independent Components Analysis and Higher Order Statistics." Advances in Neural Information Processing Systems. 2000. 
+A latent variable generative model with finite noise is used to de- 
+scribe several different algorithms for Independent Components Anal- 
+ysis (ICA). In particular, the Fixed Point ICA algorithm is shown to 
+be equivalent to the Expectation-Maximization algorithm for maximum 
+likelihood under certain constraints, allowing the conditions for global 
+convergence to be elucidated. The algorithms can also be explained by 
+their generic behavior near a singular point where the size of the opti- 
+mal generarive bases vanishes. An expansion of the likelihood about this 
+singular point indicates the role of higher order correlations in determin- 
+ing the features discovered by ICA. The application and convergence of 
+these algorithms are demonstrated on a simple illustrative example. 

@@ -1,0 +1,8 @@
+"Approximate inference algorithms for two-layer Bayesian networks." Advances in Neural Information Processing Systems. 2000. 
+We present a class of approximate inference algorithms for graphical 
+models of the QMR-DT type. We give convergence rates for these al- 
+gorithms and for the Jaakkola and Jordan (1999) algorithm, and verify 
+these theoretical predictions empirically. We also present empirical re- 
+sults on the difficult QMR-DT network problem, obtaining performance 
+of the new algorithms roughly comparable to the Jaakkola and Jordan 
+algorithm. 

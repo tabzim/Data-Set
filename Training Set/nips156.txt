@@ -1,0 +1,13 @@
+"Multiple paired forward-inverse models for human motor learning and control." Advances in neural information processing systems. 1999.
+Humans demonstrate a remarkable ability to generate accurate and 
+appropriate motor behavior under many different and often uncertain 
+emqronmental conditions. This paper describes a new modular ap- 
+proach to human motor learning and control, based on multiple pairs of 
+inverse (controller) and forward (predictor) models. This architecture 
+simultaneously learns the multiple inverse models necessary for control 
+as well as how to select the inverse models appropriate for a given envi- 
+ronment. Simulations of object manipulation demonstrates the ability 
+to learn multiple objects, appropriate generalization to novel objects 
+and the inappropriate activation of motor programs based on visual 
+cues, followed by on-line correction, seen in the "size-weight illusion". 
+ 

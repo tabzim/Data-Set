@@ -1,0 +1,20 @@
+"Speech Modelling Using Subspace and EM Techniques." Advances in Neural Information Processing Systems. 2000.
+The speech waveform can be modelled as a piecewise-stationary linear 
+stochastic state space system, and its parameters can be estimated using 
+an expectation-maximisation (EM) algorithm. One problem is the ini- 
+tialisation of the EM algorithm. Standard initialisation schemes can lead 
+to poor formant trajectories. But these trajectories however are impor- 
+tant for vowel intelligibility. The aim of this paper is to investigate the 
+suitability of subspace identification methods to initialise EM. 
+The paper compares the subspace state space system identification 
+(4SID) method with the EM algorithm. The 4SID and EM methods are 
+similar in that they both estimate a state sequence (but using Kalman fil- 
+ters and Kalman smoothers respectively), and then estimate parameters 
+(but using least-squares and maximum likelihood respectively). The sim- 
+ilarity of 4SID and EM motivates the use of 4SID to initialise EM. Also, 
+4SID is non-iterative and requires no initialisation, whereas EM is itera- 
+tive and requires initialisation. However 4SID is sub-optimal compared 
+to EM in a probabilistic sense. During experiments on real speech, 4SID 
+methods compare favourably with conventional initialisation techniques. 
+They produce smoother formant trajectories, have greater frequency res- 
+olution, and produce higher likelihoods. 

@@ -1,0 +1,7 @@
+ Panacea's Cloud: Augmented reality for mass casualty disaster incident triage and co-ordination. CCNC 2016: 264-265.
+ Intelligent Dashboard for augmented reality based incident command response co-ordination. CCNC 2016: 976-979
+ Contextual geotracking service of incident markers in disaster search-and-rescue operations. NCA 2016: 22-26
+Panacea's Glass: Mobile Cloud Framework for Communication in Mass Casualty Disaster Triage. MobileCloud 2015: 128-134.
+ Using system dynamics to evaluate renewable electricity development in Malaysia. Kybernetes 43(1) (2013)
+ Webzeitgeist: design mining the web. CHI 2013: 3083-3092
+ The dog programming language. UIST 2013: 463-472

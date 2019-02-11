@@ -1,0 +1,17 @@
+"Facial memory is kernel density estimation (almost)." Advances in neural information processing systems. 1999. 
+We compare the ability of three exemplar-based memory models, each 
+using three different face stimulus representations, to account for the 
+probability a human subject responded "old" in an old/new facial mem- 
+ory experiment. The models are 1) the Generalized Context Model, 2) 
+SimSample, a probabilistic sampling model, and 3) MMOM, a novel 
+model related to kernel density estimation that explicitly encodes stim- 
+ulus distinctiveness. The representations are 1) positions of stimuli in 
+MDS "face space," 2) projections of test faces onto the "eigenfaces" of 
+the study set, and 3) a representation based on response to a grid of Gabor 
+filter jets. Of the 9 model/representation combinations, only the distinc- 
+tiveness model in MDS space predicts the observed "morph familiarity 
+inversion" effect, in which the subjects' false alarm rate for morphs be- 
+tween similar faces is higher than their hit rate for many of the studied 
+faces. This evidence is consistent with the hypothesis that human mem- 
+ory for faces is a kernel density estimation task, with the caveat that dis- 
+tinctive faces require larger kernels than do typical faces. 

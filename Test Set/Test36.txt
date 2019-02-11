@@ -1,0 +1,8 @@
+Identification of splicing sites using hybrid space of pseudo trinucleotide and pseudo tetranucleotide composition. Computer Methods and Programs in Biomedicine 128: 1-11 (2016)
+Identification of DNA binding proteins using evolutionary profiles position specific scoring matrix. Neurocomputing 199: 154-162 (2016)
+iTIS-PseKNC: Identification of Translation Initiation Site in human genes using pseudo k-tuple nucleotides composition. Comp. in Bio. and Med. 66: 252-257 (2015)
+Identification of Heat Shock Protein families and J-protein types by incorporating Dipeptide Composition into Chou's general PseAAC. Computer Methods and Programs in Biomedicine 122(2): 165-174 (2015)
+2014
+Discriminating protein structure classes by incorporating Pseudo Average Chemical Shift to Chou's general PseAAC and Support Vector Machine. Computer Methods and Programs in Biomedicine 116(3): 184-192 (2014)
+
+

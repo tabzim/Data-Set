@@ -1,0 +1,28 @@
+"Modeling surround suppression in V1 neurons with a statistically-derived normalization model." Advances in neural information processing systems 11: Proceedings of the 1998 conference. Vol. 11. MIT press, 1999.
+We examine the statistics of natural monochromatic images decomposed 
+using a multi-scale wavelet basis. Although the coefficients of this rep- 
+resentation are nearly decorrelated, they exhibit important higher-order 
+statistical dependencies that cannot be eliminated with purely linear pro- 
+cessing. In particular, rectified coefficients corresponding to basis func- 
+tions at neighboring spatial positions, orientations and scales are highly 
+correlated. A method of removing these dependencies is to divide each 
+coefficient by a weighted combination of its rectified neighbors. Sev- 
+eral successful models of the steady-state behavior of neurons in primary 
+visual cortex are based on such "divisive normalization" computations, 
+and thus our analysis provides a theoretical justification for these models. 
+Perhaps more importantly, the statistical measurements explicitly specify 
+the weights that should be used in computing the normalization signal. 
+We demonstrate that this weighting is qualitatively consistent with re- 
+cent physiological experiments that characterize the suppressive effect 
+of stimuli presented outside of the classical receptive field. Our obser- 
+vations thus provide evidence for the hypothesis that early visual neural 
+processing is well matched to these statistical properties of images. 
+An appealing hypothesis for neural processing states that sensory systems develop in re- 
+sponse to the statistical properties of the signals to which they are exposed [e.g., 1, 2]. 
+This has led many researchers to look for a means of deriving a model of cortical process- 
+ing purely from a statistical characterization of sensory signals. In particular, many such 
+attempts are based on the notion that neural responses should be statistically independent. 
+The pixels of digitized natural images are highly redundant, but one can always find a 
+linear decomposition (i.e., principal component analysis) that eliminates second-order cot- 
+Research supported by an Alfred P. Sloan Fellowship to EPS, and by the Sloan Center for Theoretical 
+Neurobiology at NYU. 

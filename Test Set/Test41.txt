@@ -1,0 +1,8 @@
+Subject-independent human activity recognition using Smartphone accelerometer with cloud support.. IJAHUC 20(3): 172-185 (2015)
+Wiimote squash: comparing DTW and WFM techniques for 3D gesture recognition. Int. Arab J. Inf. Technol. 11(4): 362-369 (2014) 
+
+A Dynamic Approach to Recognize Activities in WSN.IJDSN 9 (2013)
+ 
+Interactive Slide Navigation: An Approach for Manipulation Slides with Augmented Reality Markers. Smart CR 2(2): 138-148 (2012) 
+Semantic Search and Retrieval System for Learning Objects. ICITCS 2011: 129-143 
+An Efficient Live Stream Community Management Scheme for the Mobile. ICITCS 2011: 281-293 

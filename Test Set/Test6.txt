@@ -1,0 +1,2 @@
+Performance Evaluation of a Non-exhaustive Polling System with Asymmetrical Finite Queues. UKSim 2012: 613-617
+Performance Analysis of Bandwidth Request Mechanism of rtPS and nrtPS in WiMAX Uplink Traffic. UKSim 2012: 636-639

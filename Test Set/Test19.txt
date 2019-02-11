@@ -1,0 +1,9 @@
+Multi-shot Person Re-Identification Using Part Appearance Mixture. WACV 2017: 605-614
+Identifying Persons of Interest in CCTV Camera Networks.ERCIM News 2017(108) (2017) 
+Computational Fusion of Multi-View and Multi-Illumination Imaging. ERCIM News 2017(108) (2017)
+Unsupervised data association for metric learning in the context of multi-shot person re-identification. AVSS 2016: 256-262
+Person Re-identification for Real-world Surveillance Systems.  CoRR abs/1607.05975 (2016)
+Leveraging Mutual Information in Local Descriptions: From Local Binary Patterns to the Image.  ICIAP (2) 2015: 239-251
+Conditional Bayesian networks for action detection. AVSS 2013: 256-262
+Simultaneous inference of activity, pose and object.  WACV 2012: 281-288
+Multiple pose context trees for estimating human pose in object context.  CVPR Workshops 2010: 17-24

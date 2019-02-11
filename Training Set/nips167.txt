@@ -1,0 +1,27 @@
+"Analyzing and visualizing single-trial event-related potentials." Advances in neural information processing systems. 1999.
+Event-related potentials (ERPs), are portions of electroencephalo- 
+graphic (EEG) recordings that are both time- and phase-locked 
+to experimental events. ERPs are usually averaged to increase 
+their signal/noise ratio relative to non-phase locked EEG activ- 
+ity, regardless of the fact that response activity in single epochs 
+may vary widely in time course and scalp distribution. This study 
+applies a linear decomposition tool, Independent Component Anal- 
+ysis (ICA) [1], to multichannel single-trial EEG records to derive 
+spatial filters that decompose single-trial EEG epochs into a sum 
+of temporally independent and spatially fixed components arising 
+from distinct or overlapping brain or extra-brain networks. Our 
+results on normal and autistic subjects show that ICA can sep- 
+arate artifactual, stimulus-locked, response-locked, anal non-event 
+related background EEG activities into separate components, al- 
+lowing (1) removal of pervasive artifacts of all types from single-trial 
+EEG records, and (2) identification of both stimulus- and response- 
+locked EEG components. Second, this study proposes a new visual- 
+ization tool, the 'ERP image', for investigating variability in laten- 
+cies and amplitudes of event-evoked responses in spontaneous EEG 
+or MEG records. We show that sorting single-trial ERP epochs in 
+order of reaction time and plotting the potentials in 2-D clearly 
+reveals underlying patterns of response variability linked to per- 
+formance. These analysis and visualization tools appear broadly 
+applicable to electrophyiological research on both normal and clin- 
+ical populations. 
+Analyzing and Visualizing Single-Trial Event-Related Potentials 119 

@@ -1,0 +1,37 @@
+ Resource Management in Cloud: Prospects, Taxonomy and Challenges,Computers & Electrical …, 2015
+ “A Cross-Layer Approach for Partition Detection at Overlay Layer for Structured P2P in MANETs ”,Peer-to-Peer Networking and …, 2016 
+ An Energy Efficient Simultaneous-Node Repositioning Algorithm for Mobile Sensor Networks The Scientific World Journal, 2014 -
+"Road Oriented Traffic Information System for Vehicular Ad Hoc Networks", Wireless personal …, 2014
+  "Survey on Social Networking Services," IET Networks.  Publisher: IET/IEEE  IET networks, 2013 
+ Congestion Control Protocols for Wireless Sensor Network: A survey, Journal of King Saud University-Computer and …, 2017
+ Energy Efficient Multi Hierarchy Clustering Protocol for Wireless Sensor Network,  2010
+Energy Efficient and QoS aware Routing Protocol for Clustered Wireless Sensor Network,  Computers & Electrical Engineering, 2013 
+ Coordinated Opportunistic Routing Protocol for Wireless Mesh Networks, 2442-2453 (2013
+A reliable checkpoint storage strategy for grid, 611-632 (2013)
+ Low Latency Sleep/Wake Scheduling Scheme for Wireless Sensor Network, Communications and Networking, 2011
+“Replication Based Fault Tolerant Job Scheduling Strategy for Economy Driven Grid " The Journal of Supercomputing, 2012
+ Multi Hierarchy clustering Protocol for Wireless Sensor Network (EMHC),  2010
+ , Mobile Nodes based Clustering Protocol for Life Time Optimization in Wireless Sensor Network, 2010
+  Sleep/wake scheduling scheme for minimizing end-to-end delay in multi-hop wireless sensor networks, 2011 
+ Adaptive checkpointing strategy to tolerate faults in economy based grid. The Journal of Supercomputing, 2009
+Performance evaluation of fault tolerance techniques in grid computing system.  2010 
+ A hybrid fault tolerance technique in grid computing system. , 2011
+A Scalable and Minimized Butterfly Fat Tree (SMBFT) Switching Network for On-Chip Communication,2012 
+ “Dynamic Load-based multi-node repositioning for Mobile Sensor Network”,  2012 
+"Simultaneously Node Relocation Algorithm for Mobile Sensor Network Sensor Networks for …, 2013
+ "Multi-node Repositioning Technique for Mobile Sensor Network",   2013 
+, Dynamic load-based multi-node repositioning for mobile sensor network, 2012
+ Dynamic Sleep Scheduling for Minimizing Delay in Wireless Sensor Network,2011
+ Low Latency Sleep/Wake Scheduling Scheme for Wireless Sensor Network, 2011
+ Mobile Sink based Routing Protocol (MSRP) for Prolonging Network Lifetime in Clustered Wireless Sensor Network, 2010
+ Energy Efficient Multi Hierarchy clustering Protocol for Wireless Sensor Network (EMHC, 2010
+ Mobile Nodes based Clustering Protocol for Life Time Optimization in Wireless Sensor Network, 2010
+ Region based Energy aware Clustering in  Wireless Sensor Network, 2010
+ Energy Balanced Clustering in Wireless Sensor  Network ,2010 
+ Adaptive Task Scheduling Strategy for Economy Based Grid, 2009
+ Robust Grid Resource Broker Strtegy for Economy Based Grid, 2009
+ “Fault Tolerant Re-routing Protocol for Wireless Sensor Networks”, 2014
+" QoS aware Interpiconet Scheduling in Bluetooth Scatternet (QIPS) ", 2007
+   "Improved IP Network for Emergency Service", 2007
+ “Fault Tolerant Job Scheduling in Computational Grid”, 2006
+ “Robust Nomadic Token Dynamic Load Balancing Algorithm with Fixed Epoch (RNTDE)” 

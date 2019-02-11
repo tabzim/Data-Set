@@ -1,0 +1,8 @@
+"Spiking Boltzmann Machines." Advances in Neural Information Processing Systems. 2000. 
+We first show how to represent sharp posterior probability distribu- 
+tions using real valued coefficients on broadly-tuned basis functions. 
+Then we show how the precise times of spikes can be used to con- 
+vey the real-valued coefficients on the basis functions quickly and 
+accurately. Finally we describe a simple simulation in which spik- 
+ing neurons learn to model an image sequence by fitting a dynamic 
+generafive model. 

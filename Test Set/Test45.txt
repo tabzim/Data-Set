@@ -1,0 +1,9 @@
+ Computational Technique for an Efficient Classification of Protein Sequences With Distance-Based Sequence Encoding Algorithm.  Computational Intelligence 33(1): 32-55 (2017)
+ Classification of GPCRs proteins using a statistical encoding method.. IJCNN 2016: 1224-1228
+Reliable Radiation Hybrid Maps: An Efficient Scalable Clustering-Based Approach.IEEE/ACM Trans. Comput. Biology Bioinform. 11(5): 788-800 (2014)
+A noise-aware method for building radiation hybrid maps.BCB 2014: 541-550
+Data Mining of Protein Sequences with Amino Acid Position-Based Feature Encoding Technique.DaEng 2013: 119-126 
+Poster: Clustering-based approach for constructing reliable radiation hybrid framework maps. ICCABS 2013: 1
+ 
+A fast and scalable clustering-based approach for constructing reliable radiation hybrid maps. BIOKDD 2013: 34-41
+ 

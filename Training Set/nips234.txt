@@ -1,0 +1,7 @@
+"Probabilistic Visualisation of High-dimensional Binary Data." Advances in Neural Information Processing Systems. 1999. 
+We present a probabilistic latent-variable framework for data visu- 
+alisation, a key feature of which is its applicability to binary and 
+categorical data types for which few established methods exist. A 
+variational approximation to the likelihood is exploited to derive a 
+fast algorithm for determining the model parameters. Illustrations 
+of application to real and synthetic binary data sets are given. 

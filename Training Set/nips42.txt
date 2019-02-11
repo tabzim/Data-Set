@@ -1,0 +1,9 @@
+"Neural Computation with Winner-Take-All as the only Nonlinear Operation." Advances in Neural Information Processing Systems. 2000. 
+Everybody "knows" that neural networks need more than a single layer 
+of nonlinear units to compute interesting functions. We show that this is 
+false if one employs winner-take-all as nonlinear unit: 
+Any boolean function can be computed by a single k-winner-take- 
+all unit applied to weighted sums of the input variables. 
+Any continuous function can be approximated arbitrarily well by 
+a single soft winner-take-all unit applied to weighted sums of the 
+input variables. 

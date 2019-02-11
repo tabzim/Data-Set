@@ -1,0 +1,17 @@
+"Reinforcement Learning Using Approximate Belief States." Advances in Neural Information Processing Systems. 2000. 
+The problem of developing good policies for partially observable Markov 
+decision problems (POMDPs) remains one of the most challenging ar- 
+eas of research in stochastic planning. One line of research in this area 
+involves the use of reinforcement learning with belief states, probabil- 
+ity distributions over the underlying model states. This is a promis- 
+ing method for small problems, but its application is limited by the in- 
+tractability of computing or representing a full belief state for large prob- 
+lems. Recent work shows that, in many settings, we can maintain an 
+approximate belief state, which is fairly close to the true belief state. In 
+particular, great success has been shown with approximate belief states 
+that marginalize out correlations between state variables. In this paper, 
+we investigate two methods of full belief state reinforcement learning and 
+one novel method for reinforcement learning using factored approximate 
+belief states. We compare the performance of these algorithms on several 
+well-known problem from the literature. Our results demonstrate the im- 
+portance of approximate belief state representations for large problems. 

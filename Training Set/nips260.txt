@@ -1,0 +1,13 @@
+"Learning to Find Pictures of People." Advances in Neural Information Processing Systems. 1999.  
+Finding articulated objects, like people, in pictures presents a par- 
+ticularly difficult object recognition probleln. We show how to 
+find people by finding putative body segments, and then construct- 
+ing assemblies of those segments that are consistent with the con- 
+straints on the appearance of a person that result froill kinematic 
+properties. Since a reasonable model of a person requires at. lea.st 
+nine segments, it is not possible to present every group to a classi- 
+fier. Instead, the search can be pruned by using projected versions 
+of a classifier that accepts groups corresponding to people. We 
+describe an efficient projection algorithm for one popular classi- 
+fier, and demonstrate that our approach can be used to deterlnine 
+whether images of real scenes contain people. 

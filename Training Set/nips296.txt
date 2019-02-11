@@ -1,0 +1,13 @@
+"Coordinate Transformation Learning of Hand Position Feedback Controller by Using Change of Position Error Norm." Advances in Neural Information Processing Systems. 1999.  
+In order to grasp an object, we need to solve the inverse kine- 
+matics problem, i.e., the coordinate transformation from the visual 
+coordinates to the joint angle vector coordinates of the arm. Al- 
+though several models of coordinate transformation learning have 
+been proposed, they suffer from a number of drawbacks. In human 
+motion control, the learning of the hand position error feedback 
+controller in the inverse kinematics solver is important. This paper 
+proposes a novel model of the coordinate transformation learning 
+of the human visual feedback controller that uses the change of 
+the joint angle vector and the corresponding change of the square 
+of the hand position error norm. The feasibility of the proposed 
+model is illustrated using numerical simulations. 

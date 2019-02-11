@@ -1,0 +1,14 @@
+"Scale Mixtures of Gaussians and the Statistics of Natural Images." Advances in Neural Information Processing Systems. 2000. 
+The statistics of photographic images, when represented using 
+multiscale (wavelet) bases, exhibit two striking types of non- 
+Gaussian behavior. First, the marginal densities of the coefficients 
+have extended heavy tails. Second, the joint densities exhibit vari- 
+ance dependencies not captured by second-order models. We ex- 
+amine properties of the class of Gaussian scale mixtures, and show 
+that these densities can accurately characterize both the marginal 
+and joint distributions of natural image wavelet coefficients. This 
+class of model suggests a Markov structure, in which wavelet coeffi- 
+cients are linked by hidden scaling variables corresponding to local 
+image structure. We derive an estimator for these hidden variables, 
+and show that a nonlinear "normalization" procedure can be used 
+to Gaussianize the coefficients. 

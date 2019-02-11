@@ -1,0 +1,14 @@
+"Graph Matching for Shape Retrieval." Advances in Neural Information Processing Systems. 1999. 
+This paper describes a Bayesian graph matching algorithm for 
+data-mining from large structural data-bases. The matching al- 
+gorithm uses edge-consistency and node attribute similarity to de- 
+termine the a posterJori probability of a query graph for each of the 
+candidate matches in the data-base. The node feature-vectors are 
+constructed by computing normalised histograms of pairwise ge- 
+ometric attributes. Attribute similarity is assessed by computing 
+the Bhattacharyya distance between the histograms. Recognition 
+is realised by selecting the candidate from the data-base which has 
+the largest a posterJori probability. We illustrate the recognition 
+technique on a data-base containing 2500 line patterns extracted 
+from real-world imagery. Here the recognition technique is shown 
+to significantly outperform a number of algorithm alternatives. 

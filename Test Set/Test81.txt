@@ -1,0 +1,10 @@
+Finding Rising Stars in Co-Author Networks via Weighted Mutual Influence. WWW (Companion Volume) 2017: 33-41
+Modelling to identify influential bloggers in the blogosphere: A survey. Computers in Human Behavior 68: 64-82 (2017)
+Indexing of authors according to their domain of expertise Malaysian Journal of Library & Information Science 22 (1), 69-82
+Standing on the shoulders of giants Journal of Informetrics 11 (1), 307-323
+A survey on the state-of-the-art machine learning models in the context of NLP Kuwait journal of Science 43 (4)
+Impact of mutual influence while ranking authors in a co-authorship network Kuwait Journal of Science 43 (3), 101-109
+MuICE: Mutual Influence and Citation Exclusivity Author Rank Information Processing & Management 52 (3), 374-386
+Author Productivity Indexing via Topic Sensitive Weighted Citations Science International 28 (4), 4135-4139
+Topic-based heterogeneous rank Scientometrics 104 (1), 313-334
+Mutual Influence based Ranking of Authors (2015)

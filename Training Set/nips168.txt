@@ -1,0 +1,12 @@
+"Spike-based compared to rate-based Hebbian learning." Advances in neural information processing systems. 1999.
+A correlation-based learning rule at the spike level is formulated, 
+mathematically analyzed, and compared to learning in a firing-rate 
+description. A differential equation for the learning dynamics is 
+derived under the assumption that the time scales of learning and 
+spiking can be separated. For a linear Poissonian neuron model 
+which receives time-dependent stochastic input we show that spike 
+correlations on a millisecond time scale play indeed a role. Corre- 
+lations between input and output spikes tend to stabilize structure 
+formation, provided that the form of the learning window is in 
+accordance with Hebb's principle. Conditions for an intrinsic nor- 
+malization of the average synaptic weight are discussed. 

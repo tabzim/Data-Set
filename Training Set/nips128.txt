@@ -1,0 +1,13 @@
+"Kirchoff Law Markov Fields for Analog Circuit Design." Advances in Neural Information Processing Systems. 2000. 
+Three contributions to developing an algorithm for assisting engi- 
+neers in designing analog circuits are provided in this paper. First, 
+a method for representing highly nonlinear and non-continuous 
+analog circuits using Kirchoff current law potential functions within 
+the context of a Markov field is described. Second, a relatively effi- 
+cient algorithm for optimizing the Markov field objective function 
+is briefly described and the convergence proof is briefly sketched. 
+And third, empirical results illustrating the strengths and limita- 
+tions of the approach are provided within the context of a JFET 
+transistor design problem. The proposed algorithm generated a set 
+of circuit components for the JFET circuit model that accurately 
+generated the desired characteristic curves. 

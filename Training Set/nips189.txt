@@ -1,0 +1,10 @@
+"Computational Differences between Asymmetrical and Symmetrical Networks." Advances in Neural Information Processing Systems. 1999. 
+Symmetrically connected recurrent networks have recently been 
+used as models of a host of neural computations. However, be- 
+cause of the separation between excitation and inhibition, biolog- 
+ical neural networks are asymmetrical. We study characteristic 
+differences between asymmetrical networks and their symmetri- 
+cal counterparts, showing that they have dramatically different 
+dynamical behavior and also how the differences can be exploited 
+for computational ends. We illustrate our results in the case of a 
+network that is a selective amplifier. 

@@ -1,0 +1,16 @@
+﻿International Journal of Privacy and Health Information Management (IJPHIM), 
+“Improved multi-focus fusion for dynamic scenes”,  Signal Processing Letters, Submitted (IF: 1.639).
+Entropy dependent compressive sensing based image fusion. ISPACS 2013: 764-769
+Improved multi-focus image fusion. FUSION 2015: 1346-1352
+Segmentation of Lung Nodules in CT Scan Data: A Jameel… - International Journal of 2015 
+ Automated detection of glaucoma using structural and non structural features
+ A Jameel Springerplus, 2016 
+Wavelet and guided filter based multifocus fusion for noisy images
+A Jameel Optik-International Journal for Light and …, 2015
+ All in focus fusion using guided filter
+A Jameel Multidimensional Systems and Signal …, 2015
+Adaptive compressive fusion for visible/IR sensors
+A Jameel, A Ghafoor, MM Riaz - IEEE Sensors Journal, 2014
+ “All in focus fusion using guided filter”, Multidimensional Systems and Signal Processing, November 2014 (IF: 1.578).
+Improved guided image fusion for magnetic resonance and computed tomography imaging
+A Jameel, A Ghafoor, MM Riaz - The Scientific World Journal, 2014

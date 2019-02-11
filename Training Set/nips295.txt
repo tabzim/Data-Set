@@ -1,0 +1,16 @@
+"Risk Sensitive Reinforcement Learning." Advances in Neural Information Processing Systems. 1999.  
+As already known, the expected return of a policy in Markov Deci- 
+sion Problems is not always the most suitable optimality criterion. For 
+many applications control strategies have to meet various constraints like 
+avoiding very bad states (risk-avoiding) or generating high profit within 
+a short time (risk-seeking) although this might probably cause significant 
+costs. We propose a modified Q-learning algorithm which uses a single 
+continuous parameter  E [-1, 1] to determine in which sense the re- 
+sulting policy is optimal. For  = 0, the policy is optimal with respect 
+to the usual expected return criterion, while   1 generates a solution 
+which is optimal in worst case. Analogous, the closer  is to - 1 the more 
+risk seeking the policy becomes. In contrast to other related approaches 
+in the field of MDPs we do not have to transform the cost model or to 
+increase the state space in order to take risk into account. Our new ap- 
+proach is evaluated by computing optimal investment strategies for an 
+artificial stock market. 

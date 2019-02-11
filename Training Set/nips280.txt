@@ -1,0 +1,15 @@
+"Graphical Models for Recognizing Human Interactions." Advances in Neural Information Processing Systems. 1999. 
+We describe a real-time computer vision and machine learning sys- 
+tem for modeling and recognizing human actions and interactions. 
+Two different domains are explored: recognition of two-handed 
+motions in the martial art 'Tai Chi', and multiple-person interac- 
+tions in a visual surveillance task. Our system combines top-down 
+with bottom-up information using a feedback loop, and is formu- 
+lated with a Bayesian framework. Two different graphical models 
+(HMMs and Coupled HMMs) are used for modeling both individual 
+actions and multiple-agent interactions, and CHMMs are shown to 
+work more efficiently and accurately for a given amount of train- 
+ing. Finally, to overcome the limited amounts of training data, 
+we demonstrate that 'synthetic agents' (Alife-style agents) can be 
+used to develop flexible prior models of the person-to-person inter- 
+actions. 

@@ -1,0 +1,14 @@
+"Predictive Approaches For Choosing Hyperparameters in Gaussian Processes." Advances in Neural Information Processing Systems. 2000. 
+Gaussian Processes are powerful regression models specified by 
+parametrized mean and covariance functions. Standard approaches 
+to estimate these parameters (known by the name Hyperparam- 
+eters) are Maximum Likelihood (ML) and Maximum APosterior 
+(MAP) approaches. In this paper, we propose and investigate pre- 
+dictive approaches, namely, maximization of Geisser's Surrogate 
+Predictive Probability (GPP) and minimization of mean square er- 
+ror with respect to GPP (referred to as Geisser's Predictive mean 
+square Error (GPE)) to estimate the hyperparameters. We also 
+derive results for the standard Cross-Validation (CV) error and 
+make a comparison. These approaches are tested on a number of 
+problems and experimental results show that these approaches are 
+strongly competitive to existing approaches. 

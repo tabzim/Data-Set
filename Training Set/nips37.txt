@@ -1,0 +1,12 @@
+"Potential Boosters ?" Advances in Neural Information Processing Systems. 2000. 
+Recent interpretations of the Adaboost algorithm view it as per- 
+forming a gradient descent on a potential function. Simply chang- 
+ing the potential function allows one to create new algorithms re- 
+lated to AdaBoost. However, these new algorithms are generally 
+not known to have the formal boosting property. This paper ex- 
+mines the question of which potential functions lead to new al- 
+gorithms that are boosters. The two main results are general sets 
+of conditions on the potential; one set implies that the resulting 
+algorithm is a booster, while the other implies that the algorithm 
+is not. These conditions are applied to previously studied potential 
+functions, such as those used by LogitBoost and Doom II. 

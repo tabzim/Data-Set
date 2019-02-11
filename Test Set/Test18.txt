@@ -1,0 +1,12 @@
+Graph Characterization Using Wave Kernel Trace. ICPR 2014: 3822-3827
+Backtrackless Walks on a Graph. IEEE Trans. Neural Netw. Learning Syst. 24(6): 977-989 (2013)
+Shape signature using the edge-based Laplacian. ICPR 2012: 1594-1597
+Shape Analysis Using the Edge-Based Laplacian. SSPR/SPR 2012: 382-390
+Commute Time for a Gaussian Wave Packet on a Graph. S+SSPR 2014: 374-383
+Gaussian Wave Packet on a Graph. GbRPR 2013: 224-233
+Graph Characterization Using Gaussian Wave Packet Signature. SIMBAD 2013: 176-189
+Eigenfunctions of the Edge-Based Laplacian on a Graph. CoRR abs/1302.3433 (2013)
+Kernelising the Ihara Zeta Function. CAIP (1) 2011: 219-227
+Graph Characterization via Backtrackless Paths. SIMBAD 2011: 149-162
+Efficient computation of Ihara coefficients using the Bell polynomial recursion
+SR Bulò, ER Hancock, F Aziz, M Pelillo - Linear Algebra and Its …, 2012 

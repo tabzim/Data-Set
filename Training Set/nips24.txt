@@ -1,0 +1,18 @@
+"Predictive Sequence Learning in Recurrent." Advances in Neural Information Processing Systems. 2000. 
+Neocortical circuits are dominated by massive excitatory feedback: more 
+than eighty percent of the synapses made by excitatory cortical neurons 
+are onto other excitatory cortical neurons. Why is there such massive re- 
+current excitation in the neocortex and what is its role in cortical compu- 
+tation? Recent neurophysiological experiments have shown that the plas- 
+ticity of recurrent neocortical synapses is governed by a temporally asym- 
+metric Hebbian learning rule. We describe how such a rule may allow 
+the cortex to modify recurrent synapses for prediction of input sequences. 
+The goal is to predict the next cortical input from the recent past based on 
+previous experience of similar input sequences.. We show that a temporal 
+difference learning rule for prediction used in conjunction with dendritic 
+back-propagating action potentials reproduces the temporally asymmet- 
+ric Hebbian plasticity observed physiologically. Biophysical simulations 
+demonstrate that a network of cortical neurons can learn to predict mov- 
+ing stimuli and develop direction selective responses as a consequence of 
+learning. The space-time response properties of model neurons are shown 
+to be similar to those of direction selective cells in alert monkey V1. 

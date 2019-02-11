@@ -1,0 +1,13 @@
+"Analog VLSI Cellular Implementation of the Boundary Contour System." Advances in Neural Information Processing Systems. 1999.  
+We present an analog VLSI cellular architecture implementing a simpli- 
+-fled version of the Boundary Contour System (BCS) for real-time image 
+processing. Inspired by neuromorphic models across several layers of 
+visual cortex, the design integrates in each pixel the functions of sim- 
+ple cells, complex cells, hyper-complex cells, and bipole cells, in three 
+orientations interconnected on a hexagonal grid. Analog current-mode 
+CMOS circuits are used throughout to perform edge detection, local inhi- 
+bition, directionally selective long-range diffusive kernels, and renormal- 
+izing global gain control. Experimental results from a fabricated 12 x 10 
+pixel prototype in 1.2/zm CMOS technology demonstrate the robustness 
+of the architecture in selecting image contours in a cluttered and noisy 
+background. 

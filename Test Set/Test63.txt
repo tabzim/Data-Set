@@ -1,0 +1,5 @@
+IP Based Traffic Recovery: An Optimal Approach using SDN Application for Data Center Network. CoRR abs/1702.00128 (2017) 
+ Morphologically rich Urdu grammar parsing using Earley algorithm. Natural Language Engineering 22(5): 775-810 (2016). 
+Building Computational Resources: The URDU.KON-TB Treebank and the Urdu Parser. University of Konstanz 2014.
+ Semi-Semantic Part of Speech Annotation and Evaluation. LAW@COLING 2014: 75-81 
+ Building a Hierarchical Annotated Corpus of Urdu: The URDU.KON-TB Treebank. CICLing (1) 2012: 66-79 

@@ -1,0 +1,7 @@
+"Learning to Parse Images." Advances in Neural Information Processing Systems. 2000. 
+We describe a class of probabilistic models that we call credibility 
+networks. Using parse trees as internal representations of images, 
+credibility networks are able to perform segmentation and recog- 
+nition simultaneously, removing the need for ad hoc segmentation 
+heuristics. Promising results in the problem of segmenting hand- 
+written digits were obtained. 

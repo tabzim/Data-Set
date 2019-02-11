@@ -1,0 +1,2 @@
+Towards the 5G Revolution: A Software Defined Network Architecture Exploiting Network Coding as a Service
+The Resource Public Key Infrastructure (RPKI) stores attestation objects for Internet resources. In this demo, we present RPKI MIRO, an open source software framework to monitor and inspect these RPKI objects. RPKI MIRO provides resource owners, RPKI operators, researchers, and lecturers with intuitive access to the content of the deployed RPKI repositories. It helps to optimize the repository structure and to identify failures.

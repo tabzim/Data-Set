@@ -1,0 +1,14 @@
+"Exploiting generative models in discriminative classifiers." Advances in Neural Information Processing Systems. 1999.  
+Generative probability models such as hidden Markov models pro- 
+vide a principled way of treating missing information and dealing 
+with variable length sequences. On the other hand, discriminative 
+methods such as support vector machines enable us to construct 
+flexible decision boundaries and often result in classification per- 
+formance superior to that of the model based approaches. An ideal 
+classifier should combine these two complementary approaches. In 
+this paper, we develop a natural xvay of achieving this combina- 
+tion by deriving kernel functions for use in discriminative methods 
+such as support vector machines from generative probability mod- 
+els. We provide a theoretical justification for this combination as 
+well as demonstrate a substantial improvement in the classification 
+performance in the context of DNA and protein sequence analysis. 

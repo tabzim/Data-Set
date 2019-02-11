@@ -1,0 +1,5 @@
+HANDOVER ARCHITECTURES FOR HETEROGENEOUS NETWORKS USING THE MEDIA INDEPENDENT INFORMATION HANDOVER (MIH). Computing and Informatics 35(1): 177-202 (2016)
+Foreground detection using background subtraction with histogram. BMSB 2013: 1-5
+Contribution of Logarithmic Tools to Texture Analysis
+Radon transform based real-time weed classifier.CGIV 2007: 245-249
+Radial Symmetry Based Real-Time Weed Classifier

@@ -1,0 +1,11 @@
+"Tight Bounds for the VC-Dimension of Piecewise Polynomial Networks." Advances in Neural Information Processing Systems. 1999.  
+O(ws(s log d q-log(dqh/s))) and O(ws((h/s) log q)q- log(dqh/s)) are 
+upper bounds for the VC-dimension of a set of neural networks of 
+units with piecewise polynomial activation functions, where s is 
+the depth of the network, h is the number of hidden units, w is 
+the number of adjustable parameters, q is the maximum of the 
+number of polynomial segments of the activation function, and d is 
+the maximum degree of the polynomials; also fl(wslog(dqh/s)) is 
+a lower bound for the VC-dimension of such a network set, which 
+are tight for the cases s - ©(h) and s is constant. For the special 
+case q -- 1, the VC-dimension is ©(ws log d). 

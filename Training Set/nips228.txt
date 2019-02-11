@@ -1,0 +1,13 @@
+"Replicator Equations, Maximal Cliques, and Graph Isomorphis." Advances in Neural Information Processing Systems. 1999.  
+We present a new energy-minimization framework for the graph 
+isomorphism problem which is based on an equivalent maximum 
+clique formulation. The approach is centered around a fundamental 
+result proved by Motzkin and Straus in the mid-1960s, and recently 
+expanded in various ways, which allows us to formulate the maxi- 
+mum clique problem in terms of a standard quadratic program. To 
+solve the program we use "replicator" equations, a class of simple 
+continuous- and discrete-time dynamical systems developed in var- 
+ious branches of theoretical biology. We show how, despite their 
+inability to escape from local solutions, they nevertheless provide 
+experimental results which are competitive with those obtained us- 
+ing more elaborate mean-field annealing heuristics. 

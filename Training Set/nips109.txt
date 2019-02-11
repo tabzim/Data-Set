@@ -1,0 +1,24 @@
+"Spectral Cues in Human Sound Localization." Advances in Neural Information Processing Systems. 2000.
+The differential contribution of the monaural and interaural spectral 
+cues to human sound localization was examined using a combined psy- 
+chophysical and analytical approach. The cues to a sound's location 
+were correlated on an individual basis with the human localization re- 
+sponses to a variety of spectrally manipulated sounds. The spectral cues 
+derive from the acoustical filtering of an individual's auditory periphery 
+which is characterized by the measured head-related transfer functions 
+(HRTFs). Auditory localization performance was determined in virtual 
+auditory space (VAS). Psychoacoustical experiments were conducted in 
+which the amplitude spectra of the sound stimulus was varied indepen- 
+dently at each ear while preserving the normal timing cues, an impossibil- 
+ity in the free-field environment. Virtual auditory noise stimuli were gen- 
+erated over earphones for a specified target direction such that there was 
+a "false" flat spectrum at the left eardrum. Using the subject's HRTFs, 
+the sound spectrum at the right eardrum was then adjusted so that either 
+the true right monaural spectral cue or the true interaural spectral cue 
+was preserved. All subjects showed systematic mislocalizations in both 
+the true right and true interaural spectral conditions which was absent in 
+their control localization performance. The analysis of the different cues 
+along with the subjects' localization responses suggests there are signif- 
+icant differences in the use of the monaural and interaural spectral cues 
+and that the auditory system's reliance on the spectral cues varies with 
+the sound condition. 

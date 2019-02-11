@@ -1,0 +1,6 @@
+"Model Selection for Support Vector Machines." Advances in Neural Information Processing Systems. 2000.
+New functionals for parameter (model) selection of Support Vector Ma- 
+chines are introduced based on the concepts of the span of support vec- 
+tors and rescaling of the feature space. It is shown that using these func- 
+tionals, one can both predict the best choice of parameters of the model 
+and the relative quality of performance for any value of parameter. 

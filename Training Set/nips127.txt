@@ -1,0 +1,16 @@
+"Learning Informative Statistics: A Nonparametric Approach." Advances in Neural Information Processing Systems. 2000. 
+We discuss an information theoretic approach for categorizing and mod- 
+eling dynamic processes. The approach can learn a compact and informa- 
+tive statistic which summarizes past states to predict future observations. 
+Furthermore, the uncertainty of the prediction is characterized nonpara- 
+metrically by a joint density over the learned statistic and present obser- 
+vation. We discuss the application of the technique to both noise driven 
+dynamical systems and random processes sampled from a density which 
+is conditioned on the past. In the first case we show results in which both 
+the dynamics of random walk and the statistics of the driving noise are 
+captured. In the second case we present results in which a summarizing 
+statistic is learned on noisy random telegraph waves with differing de- 
+pendencies on past states. In both cases the algorithm yields a principled 
+approach for discriminating processes with differing dynamics and/or de- 
+pendencies. The method is grounded in ideas from information theory 
+and nonparametric statistics. 

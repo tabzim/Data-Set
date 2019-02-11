@@ -1,0 +1,7 @@
+﻿ “A Mechanism for Detecting Dishonest Recommendation in Indirect Trust Computation ”EURASIP J. Wireless Comm. and Networking 2013: 189 (2013), 
+“An Effective Model for Indirect Trust Computation in Pervasive Computing Environment”,  Wireless Personal Communications 75(3): 1689-1713 (2014)  
+ “Modelling Interaction Using Trust and Recommendation in Ubiquitous Computing Environment”
+“A Recommendation Exchange Protocol between Smart Devices in Pervasive Computing Environment”.AINA Workshops 2013: 1050-1055
+“A Fuzzy Based Credibility Evaluation of Recommended Trust in Pervasive Computing Environment”, CCNC 2013: 617-620
+ “An Attack Resistant Method for Detecting Dishonest Recommendations in Pervasive Computing Environment”, ICON 2012: 173-178 
+ “An Adaptive Framework for Trust based Security in Pervasive Computing Environment”, CCNC 2012: 624-628  

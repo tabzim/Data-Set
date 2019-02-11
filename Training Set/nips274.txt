@@ -1,0 +1,12 @@
+"Fast Neural Network Emulation of Dynamical Systems for Computer Animation." Advances in Neural Information Processing Systems. 1999. 
+Computer animation through the numerical simulation of physics-based 
+graphics models offers unsurpassed realism, but it can be computation- 
+ally demanding. This paper demonstrates the possibility of replacing the 
+numerical simulation of nontrivial dynamic models with a dramatically 
+more efficient "NeuroAnimator" that exploits neural networks. Neu- 
+roAnimators are automatically trained off-line to emulate physical dy- 
+namics through the observation of physics-based models in action. De- 
+pending on the model, its neural network emulator can yield physically 
+realistic animation one or two orders of magnitude faster than conven- 
+tional numerical simulation. We demonstrate NeuroAnimators for a va- 
+riety of physics-based models. 

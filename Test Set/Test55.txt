@@ -1,0 +1,8 @@
+ Optimizing hadoop parameter settings with gene expression programming guided PSO. Concurrency and Computation: Practice and Experience 29(3) (2017)
+
+Hadoop Performance Modeling for Job Estimation and Resource Provisioning.  IEEE Trans. Parallel Distrib. Syst. 27(2): 441-454 (2016)
+ Hadoop performance modeling and job optimization for big data analytics. Brunel University London, UK 2015
+ Parallel Detrended Fluctuation Analysis for Fast Event Detection on Massive PMU Data.IEEE Trans. Smart Grid 6(1): 360-368 (2015) 
+ A MapReduce Based Distributed LSI for Scalable Information Retrieval.Computing and Informatics 33(2): 259-280 (2014)
+ Big data analytics on PMU measurements.FSKD 2014: 715-719 
+ Data locality in Hadoop cluster systems. FSKD 2014: 720-724

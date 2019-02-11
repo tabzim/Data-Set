@@ -1,0 +1,7 @@
+"Dynamics of Supervised Learning with Restricted Training Sets and Noisy Teachers." Advances in Neural Information Processing Systems. 2000. 
+We generalize a recent formalism to describe the dynamics of supervised 
+learning in layered neural networks, in the regime where data recycling 
+is inevitable, to the case of noisy teachers. Our theory generates reliable 
+predictions for the evolution in time of training- and generalization er- 
+rors, and extends the class of mathematically solvable learning processes 
+in large neural networks to those situations where overfitting can occur. 

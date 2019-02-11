@@ -1,0 +1,8 @@
+"A Reinforcement Learning Algorithm in Partially Observable Environments Using Short-Term Memory." Advances in Neural Information Processing Systems. 1999. 
+We describe a Reinforcement Learning algorithm for partially observ- 
+able environments using short-term memory, which we call BLHT. Since 
+BLHT learns a stochastic model based on Bayesian Learning, the over- 
+fitting problem is reasonably solved. Moreover, BLHT has an efficient 
+implementation. This paper shows that the model learned by BLHT con- 
+verges to one which provides the most accurate predictions of percepts 
+and rewards, given short-term memory. 

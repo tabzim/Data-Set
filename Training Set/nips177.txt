@@ -1,0 +1,9 @@
+"Dynamics of Supervised Learning with Restricted Training Sets." Advances in Neural Information Processing Systems. 1999. 
+Almost Linear VC Dimension Bounds for Piecewise Polynomial Networks 
+We compute upper and lower bounds on the VC dimension of 
+feedforward networks of units with piecewise polynomial activa- 
+tion functions. We show that if the number of layers is fixed, then 
+the VC dimension grows as W log W, where W is the number of 
+parameters in the network. This result stands in opposition to the 
+case where the number of layers is unbounded, in which case the 
+VC dimension grows as W 2. 

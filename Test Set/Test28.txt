@@ -1,0 +1,24 @@
+ Co-channel interference management using eICIC/FeICIC with coordinated scheduling for the coexistence of PS-LTE and LTE-R networks.  EURASIP J. Wireless Comm. and Networking 2017: 34 (2017)
+Multi-hopping loss in MIMO decode-and-forward cooperative relaying.PIMRC 2016: 1-6 
+ Capacity analysis of zero-forcing precoding in multibeam satellite systems with rain fading.PIMRC 2016: 1-6
+  A review of channel selection algorithms for EEG signal processing. Proc. 2015: 66 (2015)
+ A dynamic coalition formation framework for interference management in dense small-cell networks. 718-731 (2015)
+ Ergodic Capacity of Nonlinear MIMO-OFDM Relaying Channels. 
+Spectrum sharing between small cells and satellites: Opportunities and challenges.207-224 (2015
+  Resource management in device-to-device underlaying cellular network.  WCNC 2015: 1631-1636
+ EEG seizure detection and prediction algorithms: a survey.EURASIP J. Adv. Sig. Proc. 2014: 183 (2014)
+  Game theoretic approach for joint resource allocation in spectrum sharing femtocell networks. 16(6): 627-638 (2014)
+ Spectrum sharing and energy-efficient power optimization for two-tier femtocell networks. CrownCom 2014: 156-161
+ Joint price and power allocation under interference constraint for dynamic spectrum access networks. DySPAN 2014: 141-144 
+ Smart and Energy Efficient LED Street Light Control System Using ZigBee Network.  FIT 2014: 361-365
+ A distributed coalition formation scheme for interference management in dense small cell networks. GAMENETS 2014: 1-6
+ Low Complexity Linear Precoding Scheme for Interference Management in Femtocell Networks. VTC Fall 2014: 1-5
+ Improved Energy Detector for Full Duplex Sensing.  VTC Fall 2014: 1-5
+ Full-Duplex Spectrum Sensing Scheme Based on Phase Difference. VTC Fall 2014: 1-5
+Capacity analysis of threshold-based SNR scheduler in LTE systems. EURASIP J. Adv. Sig. Proc. 2013: 85 (2013)
+Spectral broadening effects of high-power amplifiers in MIMO-OFDM relaying channels. EURASIP J. Wireless Comm. and Networking 2013: 32 (2013)
+  Price Based Spectrum Sharing and Power Allocation in Cognitive Femtocell Network. VTC Fall 2013: 1-5
+A Novel Cooperative Sensing Based on Spatial Distance and Reliability Clustering Scheme in Cognitive Radio System. VTC Fall 2013: 1-5
+Temporal Entropy and Cognitive Information Based Efficient Environment Awareness Techniques in Cognitive Radio Networks. VTC Fall 2013: 1-5
+Co-channel interference management using eICIC/FeICIC with coordinated scheduling for the coexistence of PS-LTE and LTE-R networks. EURASIP J. Wireless Comm. and Networking 2017: 34 (2017)
+Stackelberg game based optimized power allocation scheme for two-tier femtocell network. WCSP 2013: 1-6

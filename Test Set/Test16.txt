@@ -1,0 +1,15 @@
+﻿Amino acid composition predicts prion activity PLoS Computational Biology 13(4) (2017)
+CAFÉ-Map: Context Aware Feature Mapping for mining high dimensional biomedical data Comp. in Bio. and Med. 79: 68-79 (2016)
+Issues in performance evaluation for host–pathogen protein interaction prediction Bioinformatics and Computational Biology 14(3): 1-17 (2016)
+SELF-TAUGHT LEARNING OF THE PROTEIN UNIVERSE
+PAIRpred: Partner‐specific prediction of interacting residues from sequence and structure 2014
+RAMClust: a novel feature clustering method enables spectral-matching-based annotation for metabolomics data
+ Analytical …, 2014 
+Large Margin Methods for Partner Specific Prediction of Interfaces in Protein Complexes  2014
+Automated classification of liver disorders using ultrasound images J. Medical Systems 36(5): 3163-3172 (2012)
+Multiple instance learning of Calmodulin binding sites
+Detection and localization of myocardial infarction using k-nearest neighbor classifier Bioinformatics, 2012
+MOX: A novel global optimization algorithm inspired from Oviposition site selection and egg hatching inhibition in mosquitoes pplied Soft Computing, 2011 
+Automatic detection and localization of myocardial infarction using back propagation neural networks
+Prediction of acute hypotension episodes in patients taking pressor medication using modeling of arterial blood pressure waveforms Bioinformatics and Biomedical …, 2010 - 
+Pruned fuzzy K-nearest neighbor classifier for beat classification Conference, 2008. INMIC …, 2008

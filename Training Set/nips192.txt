@@ -1,0 +1,14 @@
+"On the optimality of incremental neural network algorithms." Advances in Neural Information Processing Systems. 1999.  
+We study the approximation of functions by two-layer feedforward neu- 
+ral networks, focusing on incremental algorithms which greedily add 
+units, estimating single unit parameters at each stage. As opposed to 
+standard algorithms for fixed architectures, the optimization at each stage 
+is performed over a small number of parameters, mitigating many of the 
+difficult numerical problems inherent in high-dimensional non-linear op- 
+timization. We establish upper bounds on the error incurred by the al- 
+gorithm, when approximating functions from the Sobolev class, thereby 
+extending previous results which only provided rates of convergence for 
+functions in certain convex hulls of functional spaces. By comparing our 
+results to recently derived lower bounds, we show that the greedy algo- 
+rithms are nearly optimal. Combined with estimation error results for 
+greedy algorithms, a strong case can be made for this type of approach. 

@@ -1,0 +1,15 @@
+"Managing Uncertainty in Cue Combination." Advances in Neural Information Processing Systems. 2000.
+We develop a hierarchical generative model to study cue combi- 
+nation. The model maps a global shape parameter to local cue- 
+specific parameters, which in turn generate an intensity image. 
+Inferring shape from images is achieved by inverting this model. 
+Inference produces a probability distribution at each level; using 
+distributions rather than a single value of underlying variables at 
+each stage preserves information about the validity of each local 
+cue for the given image. This allows the model, unlike standard 
+combination models, to adaptively weight each cue based on gen- 
+eral cue reliability and specific image context. We describe the 
+results of a cue combination psychophysics experiment we con- 
+ducted that allows a direct comparison with the model. The model 
+provides a good fit to our data and a natural account for some in- 
+teresting aspects of cue combination. 

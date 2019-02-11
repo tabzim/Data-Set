@@ -1,0 +1,18 @@
+Fuzzy Logic Based Enhanced AOMDV with Link Status Classification for Efficient Multi-Path Routing in Multi-Hop Wireless Networks Journal of Computational and Theoretical Nanoscience 14 (1), 620-630
+Review Spam Detection using Sentiments and Novel Features International Journal of Computer Science and Information Security 14 (10), 324
+Fusion of motivational strategies with recommender system innovative framework for digital repositories Computing, Electronic and Electrical Engineering (ICE Cube), 2016.
+The first experiments in SST-1 Nuclear fusion 55 (10), 104009
+MAC layer challenges and proposed protocols for vehicular ad-hoc networks Vehicular Ad-hoc Networks for Smart Cities, 3-13
+Throughput Performance Improvement for VoIP Applications in Fixed WiMAX Network Using Client-Server Model Science International 26 (3)
+Throughput enhancement for fixed WiMAX network using distributed model Computer and Information Sciences (ICCOINS), 2014 International Conference 
+Fuzzy logic based link status classification for efficient multipath routing in multi-hop wireless mesh networks Computer and Information Sciences (ICCOINS), 2014 International Conference 
+Real-time massage differentiation with priority data service flows in VANET Computer and Information Sciences (ICCOINS), 2014 International Conference
+A DNS-assisted simultaneous mobility support procedure for Mobile IPv6 Procedia-Social and Behavioral Sciences 129, 536-545
+Performance comparison of centralized and distributed network models to support QoS in fixed WiMAX Procedia-Social and Behavioral Sciences 129, 441-452
+Throughput measurement for the guaranteed QoS real-time traffic flows in VANETs Procedia-Social and Behavioral Sciences 129, 297-304
+A TOTP-based enhanced route optimization procedure for mobile IPv6 to reduce handover delay and signalling overhead The Scientific World Journal 2014
+Guaranteed QoS for UDP and TCP Flows to Measure Throughput in VANETs LECTURE NOTES IN ELECTRICAL ENGINEERING 2 (1), 1137-1144
+Guaranteed QoS for UDP and TCP flows to measure throughput in VANETs Guaranteed QoS for UDP and TCP flows to measure throughput in VANETs
+A Distributed Model to Analyzed QoS Parameters Performance Improvement for Fixed WiMAX Networks Advances in Computer Science and its Applications, 695-701
+An Enhanced Procedure for Mobile IPv6 Route Optimization to Reduce Handover Delay and Signaling Overhead International multi topic conference, 216-226
+A QoS approach for cluster-based routing in VANETS using TDMA scheme ICT Convergence (ICTC), 2013 International Conference on, 212-217

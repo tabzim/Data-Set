@@ -1,0 +1,10 @@
+"Boosting with Multi-Way Branching in Decision Trees." Advances in Neural Information Processing Systems. 2000. 
+In order to to compare learning algorithms, experimental results reported 
+in the machine learning litterature often use statistical tests of signifi- 
+cance. Unfortunately, most of these tests do not take into account the 
+variability due to the choice of training set. We perform a theoretical 
+investigation of the variance of the cross-validation estimate of the gen- 
+eralization error that takes into account the variability due to the choice 
+of training sets. This allows us to propose two new ways to estimate 
+this variance. We show, via simulations, that these new statistics perform 
+well relative to the statistics considered by Dietterich (Dietterich, 1998). 

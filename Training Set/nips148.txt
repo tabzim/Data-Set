@@ -1,0 +1,14 @@
+"Learning Factored Representations for Partially Observable Markov Decision Processes." Advances in Neural Information Processing Systems. 2000. 
+The problem of reinforcement learning in a non-Markov environment is 
+explored using a dynamic Bayesian network, where conditional indepen- 
+dence assumptions between random variables are compactly represented 
+by network parameters. The parameters are learned on-line, and approx- 
+imations are used to perform inference and to compute the optimal value 
+function. The relative effects of inference and value function approxi- 
+mations on the quality of the final policy are investigated, by learning to 
+solve a moderately difficult driving task. The two value function approx- 
+imations, linear and quadratic, were found to perform similarly, but the 
+quadratic model was more sensitive to initialization. Both performed be- 
+low the level of human performance on the task. The dynamic Bayesian 
+network performed comparably to a model using a localist hidden state 
+representation, while requiring exponentially fewer parameters. 

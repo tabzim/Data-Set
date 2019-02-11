@@ -1,0 +1,8 @@
+Multiscale segmentation of exudates in retinal images using contextual cues and ensemble classification. Biomed. Signal Proc. and Control 35: 50-62 (2017)
+Native Simulation of MPSoC Using Hardware-Assisted Virtualization. IEEE Trans. on CAD of Integrated Circuits and 
+On MPSoC Software Execution at the Transaction Level. IEEE Design & Test of Computers 28(3): 32-43 (2011)
+Towards Hard Real-Time Control and Infotainment Applications in Automotive Platforms(Not Found)
+A Performance Analysis of ARM Virtual Machines Secured Using SELinux. CSP Forum 2014: 28-36
+Native simulation of complex VLIW instruction sets using static binary translation and Hardware-Assisted Virtualization. ASP-DAC 2013: 576-581 
+Native MPSoC co-simulation environment for software performance estimation. CODES+ISSS 2009: 403-412
+ 

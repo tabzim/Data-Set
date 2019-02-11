@@ -1,0 +1,9 @@
+"Basis Selection For Wavelet Regression." Advances in Neural Information Processing Systems. 1999.  
+A wavelet basis selection procedure is presented for wavelet re- 
+gression. Both the basis and threshold are selected using cross- 
+validation. The method includes the capability of incorporating 
+prior knowledge on the smoothness (or shape of the basis functions) 
+into the basis selection procedure. The results of the method are 
+demonstrated using widely published sampled functions. The re- 
+sults of the method are contrasted with other basis function based 
+methods. 

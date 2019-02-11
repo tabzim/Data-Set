@@ -1,0 +1,11 @@
+"Probabilistic methods for Support Vector Machines" Advances in Neural Information Processing Systems. 2000.
+I describe a framework for interpreting Support Vector Machines 
+(SVMs) as maximum a posterJori (MAP) solutions to inference 
+problems with Gaussian Process priors. This can provide intuitive 
+guidelines for choosing a 'good' SVM kernel. It can also assign 
+(by evidence maximization) optimal values to parameters such as 
+the noise level C which cannot be determined unambiguously from 
+properties of the MAP solution alone (such as cross-validation er- 
+ror). I illustrate this using a simple approximate expression for the 
+SVM evidence. Once C has been determined, error bars on SVM 
+predictions can also be obtained. 

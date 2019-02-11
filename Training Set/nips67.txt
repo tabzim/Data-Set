@@ -1,0 +1,14 @@
+"Maximum entropy discrimination." Advances in Neural Information Processing Systems. 2000. 
+We present a general framework for discriminative estimation based 
+on the maximum entropy principle and its extensions. All calcula- 
+tions involve distributions over structures and/or parameters rather 
+than specific settings and reduce to relative entropy projections. 
+This holds even when the data is not separable within the chosen 
+parametric class, in the context of anomaly detection rather than 
+classification, or when the labels in the training set are uncertain or 
+incomplete. Support vector machines are naturally subsumed un- 
+der this class and we provide several extensions. We are also able 
+to estimate exactly and efficiently discriminative distributions over 
+tree structures of class-conditional models within this flamework. 
+Preliminary experimental results are indicative of the potential in 
+these techniques. 

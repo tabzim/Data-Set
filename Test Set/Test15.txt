@@ -1,0 +1,15 @@
+ "Biclustering of human cancer microarray data using co-similarity based co-clustering",  Expert Syst. Appl. 55: 520-531 (2016)
+ "On retrieving intelligently plagiarized documents using semantic similarity",  Eng. Appl. of AI 45: 246-258 (2015)
+“Co-clustering of Multi-View Datasets", Knowl. Inf. Syst. 47(3): 545-570 (2016)
+“Clustering Large Probabilistic Graphs using Multi-Population Evolutionary Algorithm", Inf. Sci. 317: 78-95 (2015)
+ "Multi-View Document Clustering via Ensemble Methods", J. Intell. Inf. Syst. 43(1): 81-99 (2014) 
+"Bi-Clustering Gene Expression Data Using Co-Similarity”, ADMA (1) 2011: 190-200 
+ "An improved Co-Similarity Measure for Document Clustering”,ICMLA 2010: 190-197
+"Une approche générique pour la classification supervisée et non-supervisée de documents",   2010
+ “Text Categorization using Word Similarities Based on Higher Order Co-Occurrences”, SDM 2010: 1-12
+ “Co-classification : méthode et validation ”, 2010
+ “X-sim: A new similarity measure for the co-clustering task”, 2008 Seventh International Conference on …, 2008
+ "Effective Software Management– Where Do We Falter? ",  Proceedings of the 6th …, 2007 
+ "A Stepwise Approach to Managing Software Projects" ,WSEAS Transactions on Computers …, 2007
+"A New Co-Similarity Measure: Application to Text Mining and Bio-Informatics", 2010 
+"Modeling Complex Data in the MAP Datawarehouse",  M2-STL YEAR 2005/2006

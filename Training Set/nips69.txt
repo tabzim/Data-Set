@@ -1,0 +1,14 @@
+"An Improved Decomposition Algorithm for Regression Support Vector Machines." Advances in Neural Information Processing Systems. 2000. 
+A new decomposition algorithm for training regression Support 
+Vector Machines (SVM) is presented. The algorithm builds on 
+the basic principles of decomposition proposed by Osuna et. al., 
+and addresses the issue of optimal working set selection. The new 
+criteria for testing optimality of a working set are derived. Based 
+on these criteria, the principle of "maximal inconsistency" is pro- 
+posed to form (approximately) optimal working sets. Experimental 
+results show superior performance of the new algorithm in compar- 
+ison with traditional training of regression SVM without decompo- 
+sition. Similar results have been previously reported on decomposi- 
+tion algorithms for pattern recognition SVM. The new algorithm is 
+also applicable to advanced SVM formulations based on regression, 
+such as density estimation and integral equation SVM. 

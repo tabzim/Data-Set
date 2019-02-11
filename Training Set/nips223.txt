@@ -1,0 +1,9 @@
+"Learning a Continuous Hidden Variable Model for Binary Data."Advances in Neural Information Processing Systems. 1999.  
+A directed generative model for binary data using a small number 
+of hidden continuous units is investigated. A clipping nonlinear- 
+ity distinguishes the model from conventional principal components 
+analysis. The relationships between the correlations of the underly- 
+ing continuous Gaussian variables and the binary output variables 
+are utilized to learn the appropriate weights of the network. The 
+advantages of this approach are illustrated on a translationally in- 
+variant binary distribution and on handwritten digit images. 

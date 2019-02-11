@@ -1,0 +1,12 @@
+"Lazy Learning Meets the Recursive Least Squares Algorithm." Advances in Neural Information Processing Systems. 1999.  
+Lazy learning is a memory-based technique that, once a query is re- 
+ceived, extracts a prediction interpolating locally the neighboring exam- 
+ples of the query which are considered relevant according to a distance 
+measure. In this paper we propose a data-driven method to select on a 
+query-by-query basis the optimal number of neighbors to be considered 
+for each prediction. As an efficient way to identify and validate local 
+models, the recursive least squares algorithm is introduced in the con- 
+text of local approximation and lazy learning. Furthermore, beside the 
+winner-takes-all strategy for model selection, a local combination of the 
+most promising models is explored. The method proposed is tested on 
+six different datasets and compared with a state-of-the-art approach. 

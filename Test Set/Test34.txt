@@ -1,0 +1,35 @@
+Featured correspondence topic model for semantic search on social image collections. Expert Syst. Appl. 77: 20-33 (2017)
+Synergistic effects of dietary nano selenium and vitamin C on growth, feeding, and physiological parameters of mahseer fish (Tor putitora).(Not Found)
+Extracting top-K interesting subgraphs with weighted query semantics.BigComp 2017: 366-373
+Accelerating community-search problem through faster graph dedensification. BigComp 2017: 340-347
+Effects of enrichment on the development of behaviour in an endangered fish mahseer (Tor putitora)(Not Found)
+Top-k frequent induced subgraph mining on a sliding window using sampling. IMCOM 2017: 16
+Faster Mining of Frequent Subgraphs having Bridge-Nodes in Streaming Graphs through Summarization(Not Found)
+Scalable Compression of a Weighted Graph. CoRR abs/1611.03159 (2016)
+Effects of dietary selenium nanoparticles on physiological and biochemical aspects of juvenile Tor putitora(Not Found)
+SP 2: spanner construction for shortest path computation on streaming graph(Not Found)
+Top-k frequent induced subgraph mining using samplingEDB 2016: 110-113
+A multi-user perspective for personalized email communities.Expert Syst. Appl.
+Set-based unified approach for summarization of a multi-attributed graph.World Wide Web 20(3): 543-570 (2017)
+On efficiently summarizing a large dynamic graph.BigComp 2016: 345-348
+DASJ: A Hadoop-based and Approximate Approach for Similarity Join Computations in Metric Spaces(Not Found)
+Intra graph clustering using collaborative similarity measure. Distributed and Parallel Databases 33(4): 583-603 (2015)
+Set-based approximate approach for lossless graph summarization. Computing 97(12): 1185-1207 (2015)
+Analyzing Subgraph Isomorphism on Graphs with Diverse Structural Properties(Not Found)
+Health impact of dietary selenium nanoparticles on mahseer fish(Not Found)
+Effects of Graded Level of Dietary L-Ascorbyl-2-Polyphosphate on Growth Performance and Some Hematological Indices of Juvenile Mahseer (Tor putitora).(Not Found)
+Set-based approach for lossless graph summarization using Locality Sensitive Hashing. ICDE Workshops 2015: 255-259
+Lossless graph summarization using dense subgraphs discovery. IMCOM 2015: 9:1-9:7
+Shortest Path Analysis in Social Graphs
+Set-based unified approach for attributed graph summarization
+Core analysis for efficient shortest path traversal queries in social graphs
+Shortest path analysis for efficient traversal queries in large networks
+OLAP on Structurally Significant Data in Graphs
+BPP: Large Graph Storage for Efficient Disk Based Processing
+Identification of Potential Risk factors in Pediatric Population of Federally Administered Tribal Areas (FATA) of Khyber Pakhtunkhwa, Pakistan
+Vertical transmission of hepatitis B virus: a major risk factor for chronic pediatric HBV infection: a case report
+An Efficient Algorithm for MDL Based Graph Summarization for Dense Graphs
+Bishard parallel processor: A disk-based processing engine for billion-scale graphs
+Pharmacological evaluation of antihypertensive effect of aerial parts of Thymus linearis benth.
+Personalized email community detection using collaborative similarity measure
+Trajectory based activity monitoring and healthcare provisioning

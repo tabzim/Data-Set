@@ -1,0 +1,11 @@
+"Orientation Scale and Discontinuity as Emergent Properties of Illusory Contour Shape." Advances in Neural Information Processing Systems. 1999.  
+A recent neural model of illusory contour formation is based on 
+a distribution of natural shapes traced by particles moving with 
+constant speed in directions given by Brownian motions. The input 
+to that model consists of pairs of position and direction constraints 
+and the output consists of the distribution of contours joining all 
+such pairs. In general, these contours will not be closed and their 
+distribution will not be scale-invariant. In this paper, we show 
+how to compute a scale-invariant distribution of closed contours 
+given position constraints alone and use this result to explain a 
+well known illusory contour effect. 

@@ -1,0 +1,20 @@
+A WSN for Monitoring and Event Reporting in Underground Mine Environments. IEEE Systems Journal 12(1): 485-496 (2018)
+PiLoT: A Precise IMU Based Localization Technique for Smart Phone Users 2016 IEEE 84th, 2016
+EveTrack: An event localization and tracking scheme for WSNs in dynamic environments WCNC 2016: 1-6
+Distributed Event Identification for WSNs in Non-Stationary Environments GLOBECOM 2015: 1-6
+Radar deception jamming prevention using bi-static and mono-static radars (2015)
+Detection and self-healing of cluster breakages in mines and tunnels: an empirical investigation , 2015 -
+Composite event detection and identification for WSNs using General Hebbian Algorithm ICC 2015: 6463-6468
+SHARF: a single beacon hybrid acoustic and RF indoor localization scheme CrownCom 2015: 499-510
+One-class support vector machines: analysis of outlier detection for wireless sensor networks in harsh environments
+ Artif. Intell. Rev. 43(4): 515-563 (2015)
+Performance of ultra-wideband time-reversal systems under imperfect channel side information at the transmitter
+Methodologies in power systems fault detection and diagnosis
+Characteristics and classification of outlier detection techniques for wireless sensor networks in harsh environments: a survey Artif. Intell. Rev. 43(2): 193-228 (2015)
+Coordinated multi-point (CoMP) transmission and reception with joint transmission (JT) allows some neighbouring base stations (BSs) to transmit a user equipment (UE) in the cell edge region its downlink traffic simultaneously such that it can improve the cell edge throughput while mitigating inter-cell interference (ICI). This letter investigates the outage probability of CoMP-JT based on Alamouti...
+Robust Feedback Design for Time Reversal UWB Communication Systems Under CSIT Imperfections  IEEE Communications Letters 19(1): 102-105 (2015)
+SVM based event detection and identification: exploiting temporal attribute correlations using SensGru  2014 
+Radar cross section analysis for an ogive target 2014 15th …, 2014 - 
+Frequency band selection and channel modeling for WNSN applications using simplenano  ICC 2013: 5732-5736
+UWB and MIMO Communications using Time Reversal Technique
+Joint event detection & identification: A clustering based approach for wireless sensor networks  WCNC 2013: 2333-2338

@@ -1,0 +1,15 @@
+﻿Indoor positioning system designs using visible LED lights: performance comparison of TDM and FDM protocols Electronics Letters 51 (1), 72-74
+Peak-to-average ratio constrained demand-side management with consumer's preference in residential smart grid IEEE Journal of Selected Topics in Signal Processing 8 (6), 1084-1097
+Robust channel quality indicator reporting for multi-carrier and multi-user systems. Computer Networks 74: 78-88 (2014)
+Electricity Cost Minimization for a Microgrid With Distributed Energy Resource Under Different Information Availability. IEEE Trans. Industrial Electronics 62(4): 2571-2583 (2015)
+Indoor Positioning Using Visible LED Lights: A Survey. ACM Comput. Surv. 48(2): 20:1-20:32 (2015)
+Power Control for Sum-Rate Maximization on Interference Channels Under Sum Power Constraint. IEEE Trans. Vehicular Technology 64(2): 593-609 (2015)
+Highly Accurate Three Dimensional Wireless Indoor Positioning System Using White LED Lights . 
+ Framework For Minimum User Participation Rate Determination To Achieve Specific Demand Response Management Objectives In Residential Smart Grids Energy .
+Design of a Scalable Hybrid MAC Protocol for Heterogeneous M2M Networks. IEEE Internet of Things Journal 1(1): 99-111 (2014)
+Impact of scheduling flexibility on demand profile flatness and user inconvenience in residential smart grid system Energies 6 (12), 6608-6635
+Distributed H-infinity Based Power Control in a Dynamic Wireless Network Environment . IEEE Communications Letters , 
+Demand response management for power throttling air conditioning loads in residential Smart Grids. SmartGridComm 2014: 650-655
+Tradeoff between spectrum cost and quality of service in a cognitive radio network. GLOBECOM 2013: 1179-1184
+Demand shaping to achieve steady electricity consumption with load balancing in a smart grid. ISGT 2013: 1-6
+Electricity cost minimization for a residential smart Grid with distributed generation and bidirectional power transactions. ISGT 2013: 1-6

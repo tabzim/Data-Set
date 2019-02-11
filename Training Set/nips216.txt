@@ -1,0 +1,12 @@
+"Learning from Dyadic Data." Advances in Neural Information Processing Systems. 1999. 
+Dyadzc data refers to a domain with two finite sets of objects in 
+which observations are made for dyads, i.e., pairs with one element 
+from either set. This type of data arises naturally in many ap- 
+plication ranging from computational linguistics and information 
+retrieval to preference analysis and computer vision. In this paper, 
+we present a systematic, domain-independent framework of learn- 
+ing from dyadic data by statistical mixture models. Our approach 
+covers different models with fiat and hierarchical latent class struc- 
+tures. We propose an annealed version of the standard EM algo- 
+rithm for model fitting which is empirically evaluated on a variety 
+of data sets from different domains. 

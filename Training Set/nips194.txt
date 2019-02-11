@@ -1,0 +1,6 @@
+"Mean field methods for classification with Gaussian processes." Advances in Neural Information Processing Systems. 1999.  
+We discuss the application of TAP mean field methods known from 
+the Statistical Mechanics of disordered systems to Bayesian classifi- 
+cation models with Gaussian processes. In contrast to previous ap- 
+proaches, no knowledge about the distribution of inputs is needed. 
+Simulation results for the Sonar data set are given. 

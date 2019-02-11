@@ -1,0 +1,6 @@
+"A Theory of Mean Field Approximation." Advances in Neural Information Processing Systems. 1999.  
+I present a theory of mean field approximation based on information ge- 
+ometry. This theory includes in a consistent way the naive mean field 
+approximation, as well as the TAP approach and the linear response the- 
+orem in statistical physics, giving clear information-theoretic interpreta- 
+tions to them. 

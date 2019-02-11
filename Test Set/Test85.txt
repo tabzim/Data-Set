@@ -1,0 +1,7 @@
+A Baseline-Free Modal Strain Energy Method for Damage Localisation International Journal of Civil Engineering, 1-12
+Intention Realization of Intermittent Angular Positions of Elbow using Myo Armband Sensor Proceedings of the 5th International Conference on Mechatronics and Control
+Kinematics Modeling and Mechanism Configuration Selection of a Mechatronic Assistive Device for Paraplegic Patients Proceedings of the 5th International Conference on Mechatronics and Control
+Inverse Kinematic Model and simulation of a Prosthetic Upper Limb Control System, Computing and Engineering (ICCSCE), 2015 IEEE International
+Mobile robot path planning for circular shaped obstacles using simulated annealing Control, Automation and Robotics (ICCAR), 2015 International Conference
+Stability Augmentation of Two-Wheeled Robots on Pedestrian Terrain PhD Thesis-University of Auckland
+Lyapunov function-based non-linear control for two-wheeled mobile robots International Journal of Biomechatronics and Biomedical Robotics 2 (2-4)

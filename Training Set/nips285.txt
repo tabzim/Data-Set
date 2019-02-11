@@ -1,0 +1,10 @@
+"Robust, Efficient, Globally-Optimized Reinforcement Learning with the Parti-Game Algorithm." Advances in Neural Information Processing Systems. 1999.  
+Patti-game (Moore 1994a; Moore 1994b; Moore and Atkeson 1995) is a 
+reinforcement learning (RL) algorithm that has a lot of promise in over- 
+coming the curse of dimensionality that can plague RL algorithms when 
+applied to high-dimensional problems. In this paper we introduce mod- 
+ifications to the algorithm that further improve its performance and ro- 
+bustness. In addition, while patti-game solutions can be improved locally 
+by standard local path-improvement techniques, we introduce an add-on 
+algorithm in the same spirit as parti-game that instead tries to improve 
+solutions in a non-local manner. 

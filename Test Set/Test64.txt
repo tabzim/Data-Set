@@ -1,0 +1,2 @@
+Automatic Lesion Detection System (ALDS) for Skin Cancer Classification Using SVM and Neural Classifiers. BIBE 2016: 301-308 
+Landmark Based Audio Fingerprinting for Naval Vessels. FIT 2016: 297-302

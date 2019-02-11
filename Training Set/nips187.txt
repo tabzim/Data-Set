@@ -1,0 +1,10 @@
+"Inference in Multilayer Networks via Large Deviation Bounds." Advances in Neural Information Processing Systems. 1999.  
+We study probabilistic inference in large, layered Bayesian net- 
+works represented as directed acyclic graphs. We show that the 
+intractability of exact inference in such networks does not preclude 
+their effective use. We give algorithms for approximate probabilis- 
+tic inference that exploit averaging phenomena occurring at nodes 
+with large numbers of parents. We show that these algorithms 
+compute rigorous lower and upper bounds on marginal probabili- 
+ties of interest, prove that these bounds become exact in the limit 
+of large networks, and provide rates of convergence. 

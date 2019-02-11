@@ -1,0 +1,12 @@
+"Reinforcement Learning based on Oneline EM Algorithm." Advances in Neural Information Processing Systems. 1999.  
+In this article, we propose a new reinforcement learning (RL) 
+method based on an actor-critic architecture. The actor and 
+the critic are approximated by Normalized Gaussian Networks 
+(NGnet), which are networks of local linear regression units. The 
+NGnet is trained by the on-line EM algorithm proposed in our pre- 
+vious paper. We apply our RL method to the task of swinging-up 
+and stabilizing a single pendulum and the task of balancing a dou- 
+ble pendulum near the upright position. The experimental results 
+show that our RL method can be applied to optimal control prob- 
+lems having continuous state/action spaces and that the method 
+achieves good control with a small number of trial-and-errors. 

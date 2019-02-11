@@ -1,0 +1,11 @@
+"Bayesian model selection for Support Vector machines, Gaussian processes and other kernel classifiers." Advances in Neural Information Processing Systems. 2000.
+We present a variational Bayesian method for model selection over 
+families of kernels classifiers like Support Vector machines or Gaus- 
+sian processes. The algorithm needs no user interaction and is able 
+to adapt a large number of kernel parameters to given data without 
+having to sacrifice training cases for validation. This opens the pos- 
+sibility to use sophisticated families of kernels in situations where 
+the small "standard kernel" classes are clearly inappropriate. We 
+relate the method to other work done on Gaussian processes and 
+clarify the relation between Support Vector machines and certain 
+Gaussian process models. 

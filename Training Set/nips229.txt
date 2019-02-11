@@ -1,0 +1,11 @@
+"Using Analytic QP and Sparseness to Speed Training of Support Vector Machines." Advances in Neural Information Processing Systems. 1999.  
+Training a Support Vector Machine (SVM) requires the solution of a very 
+large quadratic programming (QP) problem. This paper proposes an al- 
+gorithm for training SVMs: Sequential Minimal Optimization, or SMO. 
+SMO breaks the large QP problem into a series of smallest possible QP 
+problems which are analytically solvable. Thus, SMO does not require 
+a numerical QP library. SMO's computation time is dominated by eval- 
+uation of the kernel, hence kernel optimizations substantially quicken 
+SMO. For the MNIST database, SMO is 1.7 times as fast as PCG chunk- 
+ing; while for the UCI Adult database and linear SVMs, SMO can be 
+1500 times faster than the PCG chunking algorithm. 

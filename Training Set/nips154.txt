@@ -1,0 +1,12 @@
+"A Model for Associative Multiplication G. BjSrn Christianson* Department of Psychology McMaster University Hamilton, Ont. L8S 4K1."
+Despite the fact that mental arithmetic is based on only a few hun- 
+dred basic facts and some simple algorithms, humans have a diffi- 
+cult time mastering the subject, and even experienced individuals 
+make mistakes. Associative multiplication, the process of doing 
+multiplication by memory without the use of rules or algorithms, 
+is especially problematic. Humans exhibit certain characteristic 
+phenomena in performing associative multiplications, both in the 
+type of error and in the error frequency. We propose a model for 
+the process of associative multiplication, and compare its perfor- 
+mance in both these phenomena with data from normal humans 
+and from the model proposed by Anderson et al (1994). 

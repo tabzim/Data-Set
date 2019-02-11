@@ -1,0 +1,12 @@
+"Online Independent Component Analysis With Local Learning Rate Adaptation." Advances in Neural Information Processing Systems. 2000. 
+Stochastic meta-descent (SMD) is a new technique for online adap- 
+tation of local learning rates in arbitrary twice-differentiable sys- 
+tems. Like matrix momentum it uses full second-order information 
+while retaining O(n) computational complexity by exploiting the 
+efficient computation of Hessian-vector products. Here we apply 
+SMD to independent component analysis, and employ the result- 
+ing algorithm for the blind separation of time-varying mixtures. 
+By matching individual learning rates to the rate of change in each 
+source signal's mixture coefficients, our technique is capable of si- 
+multaneously tracking sources that move at very different, a priori 
+unknown speeds. 

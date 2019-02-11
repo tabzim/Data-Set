@@ -1,0 +1,17 @@
+"Correctness of belief propagation in Gaussian graphical models of arbitrary topology." Advances in Neural Information Processing Systems. 2000. 
+Local "belief propagation" rules of the sort proposed by Pearl [15] are 
+guaranteed to converge to the correct posterior probabilities in singly 
+connected graphical models. Recently, a number of researchers have em- 
+pirically demonstrated good performance of "1oopy belief propagation"- 
+using these same rules on graphs with loops. Perhaps the most dramatic 
+instance is the near Shannon-limit performance of "Turbo codes", whose 
+decoding algorithm is equivalent to loopy belief propagation. 
+Except for the case of graphs with a single loop, there has been little theo- 
+retical understanding of the performance of 1oopy propagation. Here we 
+analyze belief propagation in networks with arbitrary topologies when 
+the nodes in the graph describe jointly Gaussian random variables. We 
+give an analytical formula relating the true posterior probabilities with 
+those calculated using loopy propagation. We give sufficient conditions 
+for convergence and show that when belief propagation converges it gives 
+the correct posterior means for all graph topologies, not just networks 
+with a single loop. 

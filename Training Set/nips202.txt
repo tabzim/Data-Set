@@ -1,0 +1,24 @@
+"Semi-Supervised Support Vector Machines." Advances in Neural Information Processing Systems. 1999. 
+We introduce a semi-supervised support vector machine (S3VM) 
+method. Given a training set of labeled data and a working set 
+of unlabeled data, SgVM constructs a support vector machine us- 
+ing both the training and working sets. We use SgVM to solve 
+the transduction problem using overall risk minimization (ORM) 
+posed by Vapnik. The transduction problem is to estimate the 
+value of a classification function at the given points in the working 
+set. This contrasts with the standard inductive learning problem 
+of estimating the classification function at all possible values and 
+then using the fixed function to deduce the classes of the working 
+set data. We propose a general SgVM model that minimizes both 
+the misclassification error and the function capacity based on all 
+the available data. We show how the S3VM model for I-norm lin- 
+ear support vector machines can be converted to a mixed-integer 
+program and then solved exactly using integer programming. Re- 
+suits of SgVM and the standard 1-norm support vector machine 
+approach are compared on ten data sets. Our computational re- 
+sults support the statistical learning theory results showing that 
+incorporating working data improves generalization when insuffi- 
+cient training information is available. In every case, SgVM either 
+improved or showed no significant difference in generalization com- 
+pared to the traditional approach. 
+Semi-Supervised Support Vector Machines 369 

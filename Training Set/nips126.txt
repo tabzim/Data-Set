@@ -1,0 +1,7 @@
+"Low Power Wireless Communication via Reinforcement Learning." Advances in Neural Information Processing Systems. 2000. 
+This paper examines the application of reinforcement learning to a wire- 
+less communication problem. The problem requires that channel util- 
+ity be maximized while simultaneously minimizing battery usage. We 
+present a solution to this multi-criteria problem that is able to signifi- 
+cantly reduce power consumption. The solution uses a variable discount 
+factor to capture the effects of battery usage. 

@@ -1,0 +1,2 @@
+"On the Optimization of Request Routing for Content Delivery." ACM SIGCOMM Computer Communication Review. Vol. 45. No. 4. ACM, 2015.
+We present a flexible scheme and an optimization algorithm for request routing in Content Delivery Networks (CDN). Our online approach, which is based on Lyapunov theory, provides a stable quality of service to clients, while improving content delivery delays. It also reduces data transport costs for operators.

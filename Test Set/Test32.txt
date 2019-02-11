@@ -1,0 +1,2 @@
+Genetic algorithm and difference expansion based reversible watermarking for relational databases. Journal of Systems and Software 86(11): 2742-2753 (2013)
+Authentication of images for 3D cameras: Reversibly embedding information using intelligent approaches. Journal of Systems and Software 85(11): 2665-2673 (2012)

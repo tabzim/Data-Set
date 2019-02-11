@@ -1,0 +1,9 @@
+"Unsupervised and supervised clustering: the mutual information between parameters and observations." Advances in Neural Information Processing Systems. 1999.  
+Recent works in parameter estimation and neural coding have 
+demonstrated that optimal performance are related to the mutual 
+information between parameters and data. We consider the mutual 
+information in the case where the dependency in the parameter (a 
+vector 0) of the conditional p.d.f. of each observation (a vector 
+), is through the scalar product 0. only. We derive bounds and 
+asymptotic behaviour for the mutual information and compare with 
+results obtained on the same model with the "replica technique". 

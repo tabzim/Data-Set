@@ -1,0 +1,7 @@
+"Global Optimisation of Neural Network Models Via Sequential Sampling." Advances in Neural Information Processing Systems. 1999.  
+We propose a novel strategy for training neural networks using se- 
+quential sampling-importance resampling algorithms. This global 
+optimisation strategy allows us to learn the probability distribu- 
+tion of the network weights in a sequential framework. It is well 
+suited to applications involving on-line, nonlinear, non-Gaussian or 
+non-stationary signal processing. 

@@ -1,0 +1,11 @@
+"General-purpose localization image regions of textured." Advances in Neural Information Processing Systems. 1999.  
+We suggest a working definition of texture: Texture is stuff that is 
+more compactly represented by its statistics than by specifying the 
+configuration of its parts. This definition suggests that to find 
+texture we look for outliers to the local statistics, and label as 
+texture the regions with no outliers. We present a method, based 
+upon this idea, for labeling points in natural scenes as belonging to 
+texture regions, while simultaneously allowing us to label low- 
+level, bottom-up cues for visual attention. This method is based 
+upon recent psychophysics results on processing of texture and 
+popout. 

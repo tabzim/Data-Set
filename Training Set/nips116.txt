@@ -1,0 +1,9 @@
+"Bayesian Reconstruction of 3D Human Motion from Single-Camera Video." Advances in Neural Information Processing Systems. 2000.
+The three-dimensional motion of humans is underdetermined when the 
+observation is limited to a single camera, due to the inherent 3D ambi- 
+guity of 2D video. We present a system that reconstructs the 3D motion 
+of human subjects from single-camera video, relying on prior knowledge 
+about human motion, learned from training data, to resolve those am- 
+biguities. After initialization in 2D, the tracking and 3D reconstruction 
+is automatic; we show results for several video sequences. The results 
+show the power of treating 3D body tracking as an inference problem. 

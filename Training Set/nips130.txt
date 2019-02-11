@@ -1,0 +1,20 @@
+"Constructing Heterogeneous Committees Using Input Feature Grouping: Application to Economic Forecasting." Advances in Neural Information Processing Systems. 2000. 
+The committee approach has been proposed for reducing model 
+uncertainty and improving generalization performance. The ad- 
+vantage of committees depends on (1) the performance of individ- 
+ual members and (2) the correlational structure of errors between 
+members. This paper presents an input grouping technique for de- 
+signing a heterogeneous committee. With this technique, all input 
+variables are first grouped based on their mutual information. Sta- 
+tistically similar variables are assigned to the same group. Each 
+member's input set is then formed by input variables extracted 
+from different groups. Our designed committees have less error cor- 
+relation between its members, since each member observes different 
+input variable combinations. The individual member's feature sets 
+contain less redundant information, because highly correlated vari- 
+ables will not be combined together. The member feature sets con- 
+tain almost complete information, since each set contains a feature 
+from each information group. An empirical study for a noisy and 
+nonstationary economic forecasting problem shows that commit- 
+tees constructed by our proposed technique outperform committees 
+formed using several existing techniques. 

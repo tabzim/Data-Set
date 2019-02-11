@@ -1,0 +1,7 @@
+"Dynamics of Supervised Learning with Restricted Training Sets." Advances in Neural Information Processing Systems. 1999. 
+We study the dynamics of supervised learning in layered neural net- 
+works, in the regime where the size p of the training set is proportional 
+to the number N of inputs. Here the local fields are no longer described 
+by Gaussian distributions. We use dynamical replica theory to predict 
+the evolution of macroscopic observables, including the relevant error 
+measures, incorporating the old formalism in the limit pin  oz. 

@@ -1,0 +1,6 @@
+ Synchronization of nonlinear master-slave systems under input delay and slope-restricted input nonlinearity. Complexity 21(S1): 220-233 (2016)
+Effects of Post-Adoption Beliefs on the Online Product Recommendation continuance: an Extension of is continuance Model. PACIS 2016: 130
+
+Message transmission for GH-public key cryptosystem.  J. Computational Applied Mathematics 259: 578-585 (2014)
+ An overview of trace based public key cryptography over finite fields. J. Computational Applied Mathematics 259: 599-621 (2014)
+ Parametric analysis of multi section slot coupled quadrature coupler.CCECE 2012: 1-4

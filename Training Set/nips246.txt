@@ -1,0 +1,9 @@
+"Optimizing Correlation Algorithms for Hardware-based Transient Classification." Advances in Neural Information Processing Systems. 1999.  
+The performance of dedicated VLSI neural processing hardware depends 
+critically on the design of the implemented algorithms. We have pre- 
+viously proposed an algorithm for acoustic transient classification [1]. 
+Having implemented and demonstrated this algorithm in a mixed-mode 
+architecture, we now investigate variants on the algorithm, using time 
+and frequency channel differencing, input and output normalization, and 
+schemes to binarize and train the template values, with the goal of achiev- 
+ing optimal classification performance for the chosen hardware. 

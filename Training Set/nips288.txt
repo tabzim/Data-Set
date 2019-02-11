@@ -1,0 +1,7 @@
+"Optimizing admission control while ensuring quality of service in multimedia networks via reinforcement learning." Advances in Neural Information Processing Systems. 1999. 
+This paper examines the application of reinforcement learning to a 
+telecommunications networking problem. The problem requires that rev- 
+enue be maximized while simultaneously meeting a quality of service 
+constraint that forbids entry into certain states. We present a general 
+solution to this multi-criteria problem that is able to earn significantly 
+higher revenues than alternatives. 

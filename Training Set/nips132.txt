@@ -1,0 +1,12 @@
+"Churn Reduction in the Wireless Industry." Advances in Neural Information Processing Systems. 2000. 
+Competition in the wireless telecommunications industry is rampant. To main- 
+tain profitability, wireless carriers must control churn, the loss of subscribers 
+who switch from one carder to another. We explore statistical techniques for 
+chum prediction and, based on these predictions, an optimal policy for identify- 
+ing customers to whom incentives should be offered to increase retention. Our 
+experiments are based on a data base of nearly 47,000 U.S. domestic subscrib- 
+ers, and includes information about their usage, billing, credit, application, and 
+complaint history. We show that under a wide variety of assumptions concerning 
+the cost of intervention and the retention rate resulting from intervention, chum 
+prediction and remediation can yield significant savings to a carrier. We also 
+show the importance of a data representation crafted by domain experts. 

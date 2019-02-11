@@ -1,0 +1,23 @@
+"Independent Component Analysis of Intracellular Calcium Spike Data." Advances in Neural Information Processing Systems. 1999. 
+Calcium (Ca'+)is an ubiquitous intracellular messenger which reg- 
+ulates cellular processes, such as secretion, contraction, and cell 
+proliferation. A number of different cell types respond to hormonal 
+stimuli with periodic oscillations of the intracellular free calcium 
+concentration ([Ca'+]i). These Ca '+ signals are often organized 
+in complex temporal and spatial patterns even under conditions 
+of sustained stimulation. Here we study the spario-temporal as- 
+pects of intracellular calcium ([Ca'+]i) oscillations in clonal 3-cells 
+(hamster insulin secreting cells, HIT) under pharmacological stim- 
+ulation (SchSfl et al., 1996). We use a novel fast fixed-point al- 
+gorithm (Hyv/irinen and Oja, 1997) for Independent Component 
+Analysis (ICA) to blind source separation of the spario-temporal 
+dynamics of [Ca'+]i in a HIT-cell. Using this approach we find two 
+significant independent components out of five differently mixed in- 
+put signals: one [Ca'+]i signal with a mean oscillatory period of 
+68s and a high frequency signal with a broadband power spectrum 
+with considerable spectral density. This results is in good agree- 
+ment with a study on high-frequency [Ca'+]i oscillations (PaluS 
+et al., 1998) Further theoretical and experimental studies have to 
+be performed to resolve the question on the functional impact of 
+intracellular signaling of these independent [Ca'+]i signals. 
+932 K. Prank et al. 

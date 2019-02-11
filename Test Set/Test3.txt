@@ -1,0 +1,7 @@
+Business process analysis: a process warehouse-based resource preference evaluation method. IJBIS 21(2): 137-161 (2016)
+From ER model to Star model: a systematic transformation approach. IJBIS 18(3): 249-267 (2015)
+Improving Performance of Routing Protocols Using MRP Framework. CoRR abs/1404.3011 (2014)
+Improving energy efficiency in MANET's for healthcare environments. CoRR abs/1407.2747 (2014)
+A Unified Framework for Business Process Intelligence. DaEng 2013: 437-444
+Energy efficient routing in mobile ad-hoc networks for Healthcare Environments. CoRR abs/1306.4082 (2013)
+2012

@@ -1,0 +1,9 @@
+"Transductive Inference for Estimating Values of Functions." Advances in Neural Information Processing Systems. 2000. 
+We introduce an algorithm for estimating the values of a function 
+at a set of test points Xt+l, ß ß ß, Xt+ra given a set of training points 
+(Xl, Yl),-.., (xt, Yt) without estimating (as an intermediate step) 
+the regression function. We demonstrate that this direct (transduc- 
+rive) way for estimating values of the regression (or classification 
+in pattern recognition) can be more accurate than the tradition- 
+al one based on two steps, first estimating the function and then 
+calculating the values of this function at the points of interest. 

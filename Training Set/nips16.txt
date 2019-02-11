@@ -1,0 +1,12 @@
+"Optimal sizes of dendritic and axonal arbors." Advances in Neural Information Processing Systems. 2000. 
+I consider a topographic projection between two neuronal layers with dif- 
+ferent densities of neurons. Given the number of output neurons con- 
+nected to each input neuron (divergence or fan-out) and the number of 
+input neurons synapsing on each output neuron (convergence or fan-in) I 
+determine the widths of axonal and dendritic arbors which minimize the 
+total volume of axons and dendrites. My analytical results can be sum- 
+marized qualitatively in the following rule: neurons of the sparser layer 
+should have arbors wider than those of the denser layer. This agrees with 
+the anatomical data from retinal and cerebellar neurons whose morphol- 
+ogy and connectivity are known. The rule may be used to infer connec- 
+tivity of neurons from their morphology. 

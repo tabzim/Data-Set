@@ -1,0 +1,29 @@
+A Semi Supervised Approach for Catchphrase Classification in Legal Text Documents. JCP 12(5): 451-461 (2017
+A Cached-Based Stream-Relation Join Operator for Semi-Stream Data Processing. IJDWM 12(3): 14-31 (2016)
+A Cache-Based Semi-Stream Join to deal with Unmatched Stream Data.  ADC 2015: 54-65
+A Cached-based approach to enrich Stream data with master data.   ICDIM 2015: 57-62 2014
+A natural language processing approach to generate SBVR and OCL. University of Birmingham, UK 2014
+A model transformation from NL to SBVR.  ICDIM 2014: 220-225
+Automated DD-path testing: A challenging task in software testing.  ICDIM 2014: 230-236
+Machine Learning Techniques for Topic Spotting.ICEIS (1) 2014: 450-455
+ OCL usability: a major challenge in adopting UML. 
+Teeter-totter in testing.  RAISE 2014: 32-37
+2013
+Automatic event recognition and annotation in business requirement specifications.ICDIM 2013: 212-216  
+Scope resolution of logical connectives in NL constraints. ICDIM 2013: 217-222
+Prediction of minerals in rock images using Markov logic. ICDIM 2013: 314-319
+A study on trends of mobile application usage and their distribution methods in Pakistan.  ICDIM 2013: 341-345 
+Quantifiers Types Resolution in NL Software Requirements. MICAI (Special Sessions)2013: 228-233
+SOA Embedded in BPM: A High Level View of Object Oriented Paradigm.  CoRR abs/1304.7345 (2013)
+SBVR vs OCL: A Comparative Analysis of Standards. CoRR abs/1304.7346 (2013)
+A Step Towards Ambiguity Less Natural Language Software Requirements Specifications.  IJWA 4(1): 12-21 (2012)
+NL2 Alloy: A Tool to Generate Alloy from NL Constraints.  JDIM 10(6): 365-372 (2012)
+Back to Origin: Transformation of Business Process Models to Business Rules. Business Process Management Workshops 2012: 611-622
+ Resolving Syntactic Ambiguities in Natural Language Specification of Constraints.CICLing (1) 2012: 178-187
+ Semantic Analysis of English Specification of OCL. FLAIRS Conference 2012 
+Addressing Semantic Ambiguities in Natural Language Constraints.  FLAIRS Conference 2012
+Resource optimization for processing of stream data in data warehouse environment. ICACCI 2012: 62-68
+Generating OLAP queries from natural language specification. ICACCI 2012: 768-773
+On a chain of transformations for generating alloy from NL constraints.   ICDIM 2012: 93-98
+Interacting with Data Warehouse by Using a Natural Language Interface.  NLDB 2012: 372-377
+A Rule Based Approach for Business Rule Generation from Business Process Models. RuleML 2012: 92-99

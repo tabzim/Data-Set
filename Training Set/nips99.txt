@@ -1,0 +1,8 @@
+"Manifold Stochastic Dynamics for Bayesian Learning." Advances in Neural Information Processing Systems. 2000. 
+We propose a new Markov Chain Monte Carlo algorithm which is a gen- 
+eralization of the stochastic dynamics method. The algorithm performs 
+exploration of the state space using its intrinsic geometric structure, facil- 
+itating efficient sampling of complex distributions. Applied to Bayesian 
+learning in neural networks, our algorithm was found to perform at least 
+as well as the best state-of-the-art method while consuming considerably 
+less time. 

@@ -1,0 +1,13 @@
+"Example Based Image Synthesis of Articulated Figures." Advances in Neural Information Processing Systems. 1999.  
+We present a method for learning complex appearance mappings, such 
+as occur with images of articulated objects. Traditional interpolation 
+networks fail on this case since appearance is not necessarily a smooth 
+function nor a linear manifold for articulated objects. We define an ap- 
+pearance mapping from examples by constructing a set of independently 
+smooth interpolation networks; these networks can cover overlapping re- 
+gions of parameter space. A set growing procedure is used to find ex- 
+ample clusters which are well-approximated within their convex hull; 
+interpolation then proceeds only within these sets of examples. With this 
+method physically valid images are produced even in regions of param- 
+eter space where nearby examples have different appearances. We show 
+results generating both simulated and real arm images. 

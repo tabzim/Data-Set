@@ -1,0 +1,23 @@
+Covert Communication in Fading Channels under Channel Uncertainty. VTC Spring 2017: 1-5
+Survey on Essential and Accidental Real-Time Issues in Software Engineering. CoRR abs/1703.03783 (2017)
+A Critical Evaluation and Framework of Business Process Improvement Methods. Business & Information Systems Engineering 58(1): 43-53 (2016)
+Business process analysis: a process warehouse-based resource preference evaluation method. IJBIS 21(2): 137-161 (2016)
+Generating Process Model Collection with Diverse Label and Structural Features. IJWA 8(2): 44-54 (2016)
+A Textual Description Based Approach to Process Matching. PoEM 2016: 194-208
+P2CySeMoL: Predictive, Probabilistic Cyber Security Modeling Language. IEEE Trans. Dependable Sec. Comput. 12(6): 626-639 (2015)
+Empirical Analysis of Rate Limiting + Leap Ahead (RL+LA) Countermeasure against Witty Worm. CIT/IUCC/DASC/PICom 2015: 2055-2061
+Securi CAD by Foreseeti: A CAD Tool for Enterprise Cyber Security Management. EDOC Workshops 2015: 152-155
+Single Frequency Network Based Distributed Cooperative Routing with CSMA MAC. FIT 2015: 246-251
+Integrated Metamodel for Security Analysis. HICSS 2015: 5192-5200
+An architecture modeling framework for probabilistic prediction. Inf. Syst. E-Business Management 12(4): 595-622 (2014)
+Energy-Efficient SRAM FPGA-Based Wireless Vision Sensor Node: SENTIOF-CAM. IEEE Trans. Circuits Syst. Video Techn. 24(12): 2132-2143 (2014)
+Optimal Energy Allocation for Energy Harvesting Transmitters With Hybrid Energy Storage and Processing Cost. IEEE Trans. Signal Processing 62(12): 3232-3245 (2014)
+A comparative study of in-sensor processing vs. raw data transmission using ZigBee, BLE and Wi-Fi for data intensive monitoring applications. ISWCS 2014: 519-524  
+Energy harvesting communications with hybrid energy storage and processing cost. ACSSC 2013: 609-613
+The Enterprise Architecture Analysis Tool - Support for the Predictive, Probabilistic Architecture Modeling Framework. AMCIS 2013
+SENTIOF: An FPGA Based High-Performance and Low-Power Wireless Embedded Platform. FedCSIS 2013: 901-906
+P2AMF: Predictive, Probabilistic Architecture Modeling Framework. IWEI 2013: 104-117
+Optimal scheduling for energy harvesting transmitters with hybrid energy storage.ISIT 2013: 1784-1788
+An FPGA-based high-performance wireless vibration analyzer.NORCHIP 2013: 1-5
+Investigating Energy Consumption of an SRAM-based FPGA for Duty-Cycle Applications.PARCO 2013: 548-559 
+Optimal Scheduling for Energy Harvesting Transmitters with Hybrid Energy Storage.ISIT 2013: 1784-1788

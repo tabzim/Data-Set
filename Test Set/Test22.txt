@@ -1,0 +1,5 @@
+ Energy/Lifetime Cooptimization by Cache Partitioning With Graceful Performance Degradation.  IEEE Trans. VLSI Syst. 22(8): 1705-1715 (2014)
+ Cache aging reduction with improved performance using dynamically re-sizable cache. DATE 2014: 1-6
+ Application-specific memory partitioning for joint energy and lifetime optimization. DATE 2014: 
+ Energy-optimal caches with guaranteed lifetime. ISLPED 2012: 
+ Aging-aware caches with graceful degradation of performance.  VLSI-SoC 2012:

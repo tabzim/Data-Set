@@ -1,0 +1,9 @@
+Cooling Agents' Effect Monitoring When Applied to Skin of Healthy Human Subjects Innovative Research in Thermal Imaging for Biology and Medicine, 79-92
+The role of facial asymmetry in recognizing age-separated face images Computers & Electrical Engineering 54, 255-270
+3D face recognition based on region ensemble and hybrid features 2016 International Conference on Computing, Electronic and Electrical 
+3D face recognition based on pose and expression invariant alignment Computers & Electrical Engineering 46, 241-255
+Mapping urban and peri-urban breeding habitats of Aedes mosquitoes using a fuzzy analytical hierarchical process based on climatic and physical parameters Geospatial Health 8 (3), 685-697
+Bilateral Symmetry Detection on the Basis of Scale Invariant Feature Transform PLOS ONE 9 (8), e103561
+Performance Enhancement of Subspace Learning Face Recognition by Effective Use of Classifiers (2013)
+Morpheme Matching Based Text Tokenization for a Scarce Resourced Language PloS one 8 (8), e68178
+A Multifaceted Independent Performance Analysis of Facial Subspace Recognition Algorithms PloS one 8 (2), e56510

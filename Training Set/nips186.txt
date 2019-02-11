@@ -1,0 +1,11 @@
+"Optimizing Classifiers for Imbalanced Training Sets."Advances in Neural Information Processing Systems. 1999. 
+Following recent results [9, 8] showing the importance of the fat- 
+shattering dimension in explaining the beneficial effect of a large 
+margin on generalization performance, the current paper investi- 
+gates the implications of these results for the case of imbalanced 
+datasets and develops two approaches to setting the threshold. 
+The approaches are incorporated into ThetaBoost, a boosting al- 
+gorithm for dealing with unequal loss functions. The performance 
+of ThetaBoost and the two approaches are tested experimentally. 
+Keywords: Computational Learning Theory, Generalization, fat-shattering, large 
+margin, pac estimates, unequal loss, imbalanced datasets 

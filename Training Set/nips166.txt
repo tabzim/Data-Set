@@ -1,0 +1,21 @@
+"Synergy and redundancy among brain cells of behaving monkeys." Advances in neural information processing systems. 1999.
+Determining the relationship between the activity of a single nerve 
+cell to that of an entire population is a fundamental question that 
+bears on the basic neural computation paradigms. In this paper 
+we apply an information theoretic approach to quantify the level 
+of cooperative activity among cells in a behavioral context. It is 
+possible to discriminate between synergetic activity of the cells vs. 
+redundant activity, depending on the difference between the infor- 
+mation they provide when measured jointly and the information 
+they provide independently. We define a synergy value that is pos- 
+itive in the first case and negative in the second and show that the 
+synergy value can be measured by detecting the behavioral mode of 
+the animal from simultaneously recorded activity of the cells. We 
+observe that among cortical cells positive synergy can be found, 
+while cells from the basal ganglia, active during the same task, do 
+not exhibit similar synergetic activity. 
+litay, tishby} @cs.huji.ac.il 
+Permanent address: Institute of Computer Science and Center for Neural Computa- 
+tion, The Hebrew University, Jerusalem 91904, Israel. 
+112 I. Gat and N. Tishby 
+1 

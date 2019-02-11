@@ -1,0 +1,12 @@
+"Boosting with Multi-Way Branching in Decision Trees." Advances in Neural Information Processing Systems. 2000. 
+It is known that decision tree learning can be viewed as a form 
+of boosting. However, existing boosting theorems for decision tree 
+learning allow only binary-branching trees and the generalization to 
+multi-branching trees is not immediate. Practical decision tree al- 
+gorithms, such as CART and C4.5, implement a trade-off between 
+the number of branches and the improvement in tree quality as 
+measured by an index function. Here we give a boosting justifica- 
+tion for a particular quantitative trade-off curve. Our main theorem 
+states, in essence, that if we require an improvement proportional 
+to the log of the number of branches then top-down greedy con- 
+struction of decision trees remains an effective boosting algorithm. 

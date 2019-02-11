@@ -1,0 +1,17 @@
+"A Winner-Take-All Circuit with Controllable Soft Max Property." Advances in Neural Information Processing Systems. 2000. 
+I describe a silicon network consisting of a group of excitatory neu- 
+rons and a global inhibitory neuron. The output of the inhibitory 
+neuron is normalized with respect to the input strengths. This out- 
+put models the normalization property of the wide-field direction- 
+selective cells in the fly visual system. This normalizing property is 
+also useful in any system where we wish the output signal to code 
+only the strength of the inputs, and not be dependent on the num- 
+ber of inputs. The circuitry in each neuron is equivalent to that in 
+Lazzaro's winner-take-all (WTA) circuit with one additional tran- 
+sistor and a voltage reference. Just as in Lazzaro's circuit, the 
+outputs of the excitatory neurons code the neuron with the largest 
+input. The difference here is that multiple winners can be chosen. 
+By varying the voltage reference of the neuron, the network can 
+transition between a soft-max behavior and a hard WTA behav- 
+ior. I show results from a fabricated chip of 20 neurons in a 1.2pm 
+CMOS technology. 

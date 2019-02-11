@@ -1,0 +1,12 @@
+﻿Miniaturized triple‐band and ultra‐wideband (UWB) fractal antennas for UWB applications Microwave and Optical Technology Letters 59 (7), 1542-1546
+A frequency reconfigurable cylindrically shaped surface with cloaking‐like properties Microwave and Optical Technology Letters 58 (6), 1323-1329
+A 1x2 Microstrip Array with Reduced Mutual Coupling Achieved with a Cylindrically-Shaped Cloaking-Based Surface Microwave and Optical Technology Letters 58 (2), 296-301
+Planar, compact ultra-wideband polarisation diversity antenna array IET Microwaves, Antennas & Propagation 9 (15), 1761-1768
+Isolation Enhancement of a Wideband MIMO Antenna using Floating Parasitic Elements Microwave and Optical Technology Letters 57 (7), 1677-1682,
+A Miniaturized Dual-Band Diversity Antenna for WLAN Applications IEEE Antennas and Wireless Propagation Letters 14, 958-961
+Compact Planar UWB MIMO Antenna with On-Demand WLAN Rejection Electronics Letters 51 (13), 963-964
+A Two-Port Frequency Reconfigurable Microstrip Element For Conformal Cloaking 2014 IEEE International Symposium on Antennas and Propagation
+On the use of amplitude tapering for pattern correction of conformal (Curved) antennas Wireless for Space and Extreme Environments (WiSEE), 2013 IEEE International 
+Zero Reflection Boundary using Tensor Transmission Line IMAPS NDSU Microelectronics Summit, Fargo, ND
+Scanning characteristics of a self-adapting phased-array antenna on a wedge-shaped conformal surface Antennas and Propagation Society International Symposium (APSURSI), 2013
+An initial investigation on the use of carbon microfibers for conformal transmission lines Electro/Information Technology (EIT), 2013 IEEE International Conference on, 1-5

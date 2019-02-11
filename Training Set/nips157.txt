@@ -1,0 +1,12 @@
+"Utilizing lime: Asynchronous Binding." Advances in Neural Information Processing Systems. 1999.
+Historically, connectionist systems have not excelled at represent- 
+ing and manipulating complex structures. How can a system com- 
+posed of simple neuron-like computing elements encode complex 
+relations? Recently, researchers have begun to appreciate that rep- 
+resentations can extend in both time and space. Many researchers 
+have proposed that the synchronous firing of units can encode com- 
+plex representations. I identify the limitations of this approach 
+and present an asynchronous model of binding that effectively rep- 
+resents complex structures. The asynchronous model extends the 
+synchronous approach. I argue that our cognitive architecture uti- 
+lizes a similar mechanism. 

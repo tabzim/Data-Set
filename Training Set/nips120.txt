@@ -1,0 +1,13 @@
+"Hierarchical Image Probability (HIP) Models." Advances in Neural Information Processing Systems. 2000.
+We formulate a model for probability distributions on image spaces. We 
+show that any distribution of images can be factored exactly into condi- 
+tional distributions of feature vectors at one resolution (pyramid level) 
+conditioned on the image information at lower resolutions. We would 
+like to factor this over positions in the pyramid levels to make it tractable, 
+but such factoring may miss long-range dependencies. To fix this, we in- 
+troduce hidden class labels at each pixel in the pyramid. The result is 
+a hierarchical mixture of conditional probabilities, similar to a hidden 
+Markov model on a tree. The model parameters can be found with max- 
+imum likelihood estimation using the EM algorithm. We have obtained 
+encouraging preliminary results on the problems of detecting various ob- 
+jects in SAR images and target recognition in optical aerial images. 

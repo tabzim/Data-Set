@@ -1,0 +1,11 @@
+"Algebraic Analysis for Non-Regular Learning Machines." Advances in Neural Information Processing Systems. 2000. 
+Hierarchical learning machines are non-regular and non-identifiable 
+statistical models, whose true parameter sets are analytic sets with 
+singularities. Using algebraic analysis, we rigorously prove that 
+the stochastic complexity of a non-identifiable learning machine 
+is asymptotically equal to Allogn- (ml - 1)loglogn q-const., 
+where n is the number of training samples. Moreover we show that 
+the rational number A1 and the integer ml can be algorithmically 
+calculated using resolution of singularities in algebraic geometry. 
+Also we obtain inequalities 0  /1  d/2 and I _< ml _< d, where d 
+is the number of parameters. 

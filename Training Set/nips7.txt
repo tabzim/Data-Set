@@ -1,0 +1,15 @@
+"Information Factorization in Connectionist Models of Perception." Advances in Neural Information Processing Systems. 2000. 
+We examine a psychophysical law that describes the influence of 
+stimulus and context on perception. According to this law choice 
+probability ratios factorize into components independently con- 
+trolled by stimulus and context. It has been argued that this pat- 
+tern of results is incompatible with feedback models of perception. 
+In this paper we examine this claim using neural network models 
+defined via stochastic differential equations. We show that the law 
+is related to a condition named channel separability and has little 
+to do with the existence of feedback connections. In essence, chan- 
+nels are separable if they converge into the response units without 
+direct lateral connections to other channels and if their sensors are 
+not directly contaminated by external inputs to the other chan- 
+nels. Implications of the analysis for cognitive and computational 
+neurosicence are discussed. 

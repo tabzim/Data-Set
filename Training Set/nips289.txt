@@ -1,0 +1,11 @@
+"Viewing Classifier Systems as Model Free Learning in POMDPs Akira Hayashi and Nobuo Suematsu Faculty of Information Sciences." Advances in Neural Information Processing Systems. 1999.  
+Classifier systems are now viewed disappointing because of their prob- 
+lems such as the rule strength vs rule set performance problem and the 
+credit assignment problem. In order to solve the problems, we have de- 
+veloped a hybrid classifier system: GLS (Generalization Learning Sys- 
+tem). In designing GLS, we view CSs as model free learning in POMDPs 
+and take a hybrid approach to finding the best generalization, given the 
+total number of rules. GLS uses the policy improvement procedure by 
+Jaakkola et al. for an locally optimal stochastic policy when a set of 
+rule conditions is given. GLS uses GA to search for the best set of rule 
+conditions. 

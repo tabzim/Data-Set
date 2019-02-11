@@ -1,0 +1,9 @@
+﻿An optimized magnetostatic field solver on GPU using open computing language Concurrency and Computation: Practice and Experience 29 (5), e3981
+A comparative study and workload distribution model for re‐encryption schemes in a mobile cloud computing environment International Journal of Communication Systems 30 (16), e3308
+Intrinsic Structure based Feature Transform for image classification Journal of Visual Communication and Image Representation 38, 735–744
+Energy Efficiency techniques in cloud computing International Journal of Computer Science and Information Security 14 (6), 317
+Predicting programmers' personality via interaction behaviour with keyboard and mouse PeerJ PrePrints 3, e1183v1
+Extended collaborative neighbor representation for robust single-sample face recognition Neural Computing and Applications, 1-10
+Graph-Based features extraction via datum adaptive weighted collaborative representation for face recognition International Journal of Pattern Recognition and Artificial Intelligence 28
+Locality Features Encoding in Regularized Linear Representation Learning for Face Recognition Frontiers of Information Technology (FIT), 2013 11th International
+Collaborative neighbor representation based classification using l2-minimization approach Pattern Recognition Letters 34 (2), 201-208

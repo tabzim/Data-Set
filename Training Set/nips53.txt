@@ -1,0 +1,11 @@
+"Some Theoretical Results Concerning the Convergence of Compositions of Regularized Linear Functions." Advances in Neural Information Processing Systems. 2000. 
+Recently, sample complexity bounds have been derived for problems in- 
+volving linear functions such as neural networks and support vector ma- 
+chines. In this paper, we extend some theoretical results in this area by 
+deriving dimensional independent covering number bounds for regular- 
+ized linear functions under certain regularization conditions. We show 
+that such bounds lead to a class of new methods for training linear clas- 
+sifiers with similar theoretical advantages of the support vector machine. 
+Furthermore, we also present a theoretical analysis for these new meth- 
+ods from the asymptotic statistical point of view. This technique provides 
+better description for large sample behaviors of these algorithms. 

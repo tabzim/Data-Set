@@ -1,0 +1,2 @@
+"Network policy whiteboarding and composition." ACM SIGCOMM Computer Communication Review. Vol. 45. No. 4. ACM, 2015.
+We present Policy Graph Abstraction (PGA) that graphically expresses network policies and service chain requirements, just as simple as drawing whiteboard diagrams. Different users independently draw policy graphs that can constrain each other. PGA graph clearly captures user intents and invariants and thus facilitates automatic composition of overlapping policies into a coherent policy.

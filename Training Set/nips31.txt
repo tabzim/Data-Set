@@ -1,0 +1,12 @@
+"Model selection in clustering by uniform convergence bounds." Advances in Neural Information Processing Systems. 2000.
+Unsupervised learning algorithms are designed to extract struc- 
+ture from data samples. Reliable and robust inference requires a 
+guarantee that extracted structures are typical for the data source, 
+i.e., similar structures have to be inferred from a second sample 
+set of the same data source. The overfitting phenomenon in max- 
+imum entropy based annealing algorithms is exemplarily studied 
+for a class of histogram clustering models. Bernstein's inequality 
+for large deviations is used to determine the maximally achievable 
+approximation quality parameterized by a minimal temperature. 
+Monte Carlo simulations support the proposed model selection cri- 
+terion by finite temperature annealing. 
